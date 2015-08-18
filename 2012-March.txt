@@ -1,0 +1,17 @@
+From bogus@does.not.exist.com  Wed Mar 14 16:09:08 2012
+From: bogus@does.not.exist.com ()
+Date: Wed, 14 Mar 2012 15:09:08 -0000
+Subject: No subject
+Message-ID: <mailman.0.1331737748.10261.python-spe-doc@lists.berlios.de>
+
+This means that the manual changes as fast as SPE itself. So before
+you work on the manual always ask me for the latest version.
+The most easy way for now to see the changes is to convert the file to
+a txt file and use a diff viewer, unless somebody else has as a
+smarter idea.
+Feel free to add screenshots or contribute some text. After releasing
+SPE 0.8.2 (this or next week) I will try to setup the documentation
+todo wiki.
+Stani
+
+

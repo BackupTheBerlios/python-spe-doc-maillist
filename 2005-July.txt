@@ -1,0 +1,49 @@
+From s_t_a_n_i at gmx.net  Tue Jul 19 10:36:44 2005
+From: s_t_a_n_i at gmx.net (Stani)
+Date: Tue, 19 Jul 2005 10:36:44 +0200
+Subject: [spe-doc] Translation
+Message-ID: <42DCBB9C.10505@gmx.net>
+
+Hi,
+
+I created this mailing list so that SPE doc writers & translators can 
+keep each other in touch about the evolution of the documentation. The 
+first step is translating the SPE manual in different languages. So this 
+mail is mainly for translators. The following languages are in the game:
+- chinese
+- french
+- german
+- spanish
+(- english of course)
+
+This is already a nice collection. I guess it covers already the most of 
+the globe.
+
+Some of you started already. I thought first to start only with Spanish, 
+but as it will take a while to translate the whole manual, it looks that 
+its better to start straight. Some of you started anyway. So please go 
+ahead and if you have any questions or doubts please post to this list.
+
+The following does not have to be translated, as it might change soon: 
+chapter 2 and section menu and toolbar in chapter 3.8 Of course if you 
+feel like you might always do. I want to publish both the pdf and odt on 
+the internet so please send me the two files.
+
+Concerning openoffice, download it from this site untill 2.0 is out:  
+http://download.openoffice.org/680/index.html If for some reason (but 
+please try) you can not access open office. Than just use plain text, 
+using only new lines for paragraphs.
+
+Thanks for your coorporation. I hope I can release the new version of 
+SPE in the end of this week, or beginning next week.
+
+Also it would be nice if you can participate on the forums to answer the 
+questions of which you know the answer.
+
+Thanks a lot and good luck!
+
+Stani
+
+http://www.stani.be
+
+

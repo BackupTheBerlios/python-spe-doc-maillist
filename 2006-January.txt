@@ -1,0 +1,3098 @@
+From fuzzyman at voidspace.org.uk  Fri Jan  6 11:14:13 2006
+From: fuzzyman at voidspace.org.uk (Fuzzyman)
+Date: Fri, 06 Jan 2006 10:14:13 +0000
+Subject: [spe-doc] Documentation TODO List
+Message-ID: <43BE42F5.4010407@voidspace.org.uk>
+
+Hello Stani (and others),
+
+I once again tried uninstalling/installing OpenOffice 2 at home. It sill
+failed to open manual.odt. Most frustrating.
+
+OpenOffice here at work fine. I'm in tomorrow morning, and it's usually
+quiet - so I may have a chance to look at it then. Does OpenOffice have
+diff/merge/versioning capabilities ?
+
+Anyway - I have another suggestion. This may already exist, if it does I
+apologise - but I'm not aware of it.
+
+How about a "documentation TODO list" ? This could be a list of features
+that are undocumented or poorly documented.
+
+As you add new features but don't have time to document them you can add
+them to this list. Volunteers (like myself) can then look at the list
+and pick an item to work on. This breaks the documentation task down
+into smaller amounts. I quite enjoy writing documentation - so if I knew
+*specifically* what features needed writing, then I would have a go.
+
+Of course the list would need maintaining - but once it is created that
+is a *relatively* trivial task.
+
+All the best,
+
+Fuzzyman
+http://www.voidspace.org.uk/python/index.shtml
+
+
+
+From spe.stani.be at gmail.com  Fri Jan  6 14:13:31 2006
+From: spe.stani.be at gmail.com (SPE Stani's Python Editor)
+Date: Fri, 6 Jan 2006 14:13:31 +0100
+Subject: [spe-doc] Documentation TODO List
+In-Reply-To: <43BE42F5.4010407@voidspace.org.uk>
+References: <43BE42F5.4010407@voidspace.org.uk>
+Message-ID: <2078a7ad0601060513i4d465da9h2b877302bac303d5@mail.gmail.com>
+
+Very good idea, I cut put up a wiki. To be continued...
+
+Stani
+
+On 1/6/06, Fuzzyman <fuzzyman at voidspace.org.uk> wrote:
+>
+> _______________________________________________
+> http://pythonide.stani.be
+> http://pythonide.stani.be/manual/html/manual.html
+> http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> Hello Stani (and others),
+>
+> I once again tried uninstalling/installing OpenOffice 2 at home. It sill
+> failed to open manual.odt. Most frustrating.
+>
+> OpenOffice here at work fine. I'm in tomorrow morning, and it's usually
+> quiet - so I may have a chance to look at it then. Does OpenOffice have
+> diff/merge/versioning capabilities ?
+>
+> Anyway - I have another suggestion. This may already exist, if it does I
+> apologise - but I'm not aware of it.
+>
+> How about a "documentation TODO list" ? This could be a list of features
+> that are undocumented or poorly documented.
+>
+> As you add new features but don't have time to document them you can add
+> them to this list. Volunteers (like myself) can then look at the list
+> and pick an item to work on. This breaks the documentation task down
+> into smaller amounts. I quite enjoy writing documentation - so if I knew
+> *specifically* what features needed writing, then I would have a go.
+>
+> Of course the list would need maintaining - but once it is created that
+> is a *relatively* trivial task.
+>
+> All the best,
+>
+> Fuzzyman
+> http://www.voidspace.org.uk/python/index.shtml
+>
+> _______________________________________________
+> Python-spe-doc mailing list
+> Python-spe-doc at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>
+
+
+
+--
+http://pythonide.stani.be
+http://pythonide.stani.be/screenshots
+http://pythonide.stani.be/manual/html/manual.html
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060106/7c870a6b/attachment.html>
+
+From fuzzyman at voidspace.org.uk  Fri Jan  6 14:33:05 2006
+From: fuzzyman at voidspace.org.uk (Fuzzyman)
+Date: Fri, 06 Jan 2006 13:33:05 +0000
+Subject: [spe-doc] Documentation TODO List
+In-Reply-To: <2078a7ad0601060513i4d465da9h2b877302bac303d5@mail.gmail.com>
+References: <43BE42F5.4010407@voidspace.org.uk> <2078a7ad0601060513i4d465da9h2b877302bac303d5@mail.gmail.com>
+Message-ID: <43BE7191.6020703@voidspace.org.uk>
+
+SPE Stani's Python Editor wrote:
+
+> Very good idea, I cut put up a wiki. To be continued...
+>
+This may encourage user contributions anyway...
+
+All the best,
+
+Fuzzyman
+http://www.voidspace.org.uk/python/index.shtml
+
+> Stani
+>
+> On 1/6/06, *Fuzzyman* <fuzzyman at voidspace.org.uk
+> <mailto:fuzzyman at voidspace.org.uk>> wrote:
+>
+>     _______________________________________________
+>     http://pythonide.stani.be
+>     http://pythonide.stani.be/manual/html/manual.html
+>     <http://pythonide.stani.be/manual/html/manual.html>
+>     http://pythonide.stani.be/blog/sm_donate
+>     _______________________________________________
+>     Hello Stani (and others),
+>
+>     I once again tried uninstalling/installing OpenOffice 2 at home.
+>     It sill
+>     failed to open manual.odt. Most frustrating.
+>
+>     OpenOffice here at work fine. I'm in tomorrow morning, and it's
+>     usually
+>     quiet - so I may have a chance to look at it then. Does OpenOffice
+>     have
+>     diff/merge/versioning capabilities ?
+>
+>     Anyway - I have another suggestion. This may already exist, if it
+>     does I
+>     apologise - but I'm not aware of it.
+>
+>     How about a "documentation TODO list" ? This could be a list of
+>     features
+>     that are undocumented or poorly documented.
+>
+>     As you add new features but don't have time to document them you
+>     can add
+>     them to this list. Volunteers (like myself) can then look at the list
+>     and pick an item to work on. This breaks the documentation task down
+>     into smaller amounts. I quite enjoy writing documentation - so if
+>     I knew
+>     *specifically* what features needed writing, then I would have a go.
+>
+>     Of course the list would need maintaining - but once it is created
+>     that
+>     is a *relatively* trivial task.
+>
+>     All the best,
+>
+>     Fuzzyman
+>     http://www.voidspace.org.uk/python/index.shtml
+>
+>     _______________________________________________
+>     Python-spe-doc mailing list
+>     Python-spe-doc at lists.berlios.de
+>     <mailto:Python-spe-doc at lists.berlios.de>
+>     http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>     <http://lists.berlios.de/mailman/listinfo/python-spe-doc>
+>
+>
+>
+>
+> -- 
+> http://pythonide.stani.be
+> http://pythonide.stani.be/screenshots
+> http://pythonide.stani.be/manual/html/manual.html 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060106/28419ae1/attachment.html>
+
+From mlacunza at gmail.com  Fri Jan  6 18:42:42 2006
+From: mlacunza at gmail.com (Mario Lacunza)
+Date: Fri, 6 Jan 2006 12:42:42 -0500
+Subject: [spe-doc] Documentation TODO List
+In-Reply-To: <43BE42F5.4010407@voidspace.org.uk>
+References: <43BE42F5.4010407@voidspace.org.uk>
+Message-ID: <771741b20601060942g601ccd4fl@mail.gmail.com>
+
+What's your problem with Ooo?? whats your OS?
+
+
+2006/1/6, Fuzzyman <fuzzyman at voidspace.org.uk>:
+>
+> _______________________________________________
+> http://pythonide.stani.be
+> http://pythonide.stani.be/manual/html/manual.html
+> http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> Hello Stani (and others),
+>
+> I once again tried uninstalling/installing OpenOffice 2 at home. It sill
+> failed to open manual.odt. Most frustrating.
+>
+> OpenOffice here at work fine. I'm in tomorrow morning, and it's usually
+> quiet - so I may have a chance to look at it then. Does OpenOffice have
+> diff/merge/versioning capabilities ?
+>
+> Anyway - I have another suggestion. This may already exist, if it does I
+> apologise - but I'm not aware of it.
+>
+> How about a "documentation TODO list" ? This could be a list of features
+> that are undocumented or poorly documented.
+>
+> As you add new features but don't have time to document them you can add
+> them to this list. Volunteers (like myself) can then look at the list
+> and pick an item to work on. This breaks the documentation task down
+> into smaller amounts. I quite enjoy writing documentation - so if I knew
+> *specifically* what features needed writing, then I would have a go.
+>
+> Of course the list would need maintaining - but once it is created that
+> is a *relatively* trivial task.
+>
+> All the best,
+>
+> Fuzzyman
+> http://www.voidspace.org.uk/python/index.shtml
+>
+> _______________________________________________
+> Python-spe-doc mailing list
+> Python-spe-doc at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>
+
+
+
+--
+Saludos / Best regards
+
+Mario Lacunza
+Desarrollador de Sistemas - Webmaster
+Desarrollador 2 Estrellas  VS2005
+
+Email: mlacunza [AT] gmail [DOT] com
+Website: http://mlacunzav.cogia.net
+Blog: http://mlacunza.blogspot.com/
+Lima - Peru
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060106/ba11de48/attachment.html>
+
+From fuzzyman at voidspace.org.uk  Sat Jan  7 09:32:14 2006
+From: fuzzyman at voidspace.org.uk (Fuzzyman)
+Date: Sat, 07 Jan 2006 08:32:14 +0000
+Subject: [spe-doc] Documentation TODO List
+In-Reply-To: <771741b20601060942g601ccd4fl@mail.gmail.com>
+References: <43BE42F5.4010407@voidspace.org.uk> <771741b20601060942g601ccd4fl@mail.gmail.com>
+Message-ID: <43BF7C8E.6040804@voidspace.org.uk>
+
+Mario Lacunza wrote:
+
+> What's your problem with Ooo?? whats your OS?
+
+Windows XP SP2.
+
+Ooo hangs when I try to open "manual.odt". I've tried the version with
+Java and without, and uninstalling and re-installing.
+
+When I try it at work it opens fine. I think this is an oddity with my
+windows install, as I have a couple of other weird (minor) problems as well.
+
+All the best,
+
+Fuzzyman
+http://www.voidspace.org.uk/python/index.shtml
+
+>
+>
+> 2006/1/6, Fuzzyman <fuzzyman at voidspace.org.uk
+> <mailto:fuzzyman at voidspace.org.uk>>:
+>
+>     _______________________________________________
+>     http://pythonide.stani.be
+>     http://pythonide.stani.be/manual/html/manual.html
+>     <http://pythonide.stani.be/manual/html/manual.html>
+>     http://pythonide.stani.be/blog/sm_donate
+>     _______________________________________________
+>     Hello Stani (and others),
+>
+>     I once again tried uninstalling/installing OpenOffice 2 at home.
+>     It sill
+>     failed to open manual.odt. Most frustrating.
+>
+>     OpenOffice here at work fine. I'm in tomorrow morning, and it's
+>     usually
+>     quiet - so I may have a chance to look at it then. Does OpenOffice
+>     have
+>     diff/merge/versioning capabilities ?
+>
+>     Anyway - I have another suggestion. This may already exist, if it
+>     does I
+>     apologise - but I'm not aware of it.
+>
+>     How about a "documentation TODO list" ? This could be a list of
+>     features
+>     that are undocumented or poorly documented.
+>
+>     As you add new features but don't have time to document them you
+>     can add
+>     them to this list. Volunteers (like myself) can then look at the list
+>     and pick an item to work on. This breaks the documentation task down
+>     into smaller amounts. I quite enjoy writing documentation - so if
+>     I knew
+>     *specifically* what features needed writing, then I would have a go.
+>
+>     Of course the list would need maintaining - but once it is created
+>     that
+>     is a *relatively* trivial task.
+>
+>     All the best,
+>
+>     Fuzzyman
+>     http://www.voidspace.org.uk/python/index.shtml
+>
+>     _______________________________________________
+>     Python-spe-doc mailing list
+>     Python-spe-doc at lists.berlios.de
+>     <mailto:Python-spe-doc at lists.berlios.de>
+>     http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>     <http://lists.berlios.de/mailman/listinfo/python-spe-doc>
+>
+>
+>
+>
+> -- 
+> Saludos / Best regards
+>
+> Mario Lacunza
+> Desarrollador de Sistemas - Webmaster
+> Desarrollador 2 Estrellas  VS2005
+>
+> Email: mlacunza [AT] gmail [DOT] com
+> Website: http://mlacunzav.cogia.net
+> Blog: http://mlacunza.blogspot.com/
+> Lima - Peru 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060107/feff0678/attachment.html>
+
+From mlacunza at gmail.com  Sat Jan  7 15:44:42 2006
+From: mlacunza at gmail.com (Mario Lacunza)
+Date: Sat, 07 Jan 2006 09:44:42 -0500
+Subject: [spe-doc] Documentation TODO List
+In-Reply-To: <43BF7C8E.6040804@voidspace.org.uk>
+References: <43BE42F5.4010407@voidspace.org.uk>
+	 <771741b20601060942g601ccd4fl@mail.gmail.com>
+	 <43BF7C8E.6040804@voidspace.org.uk>
+Message-ID: <1136645083.7400.4.camel@laptop>
+
+Hi,
+
+In my Ubuntu when Ooo spend some time to open the manual....  how many
+time you wait?
+
+
+El s?b, 07-01-2006 a las 08:32 +0000, Fuzzyman escribi?:
+> Mario Lacunza wrote: 
+> > What's your problem with Ooo?? whats your OS?
+> Windows XP SP2.
+> 
+> Ooo hangs when I try to open "manual.odt". I've tried the version with
+> Java and without, and uninstalling and re-installing.
+> 
+> When I try it at work it opens fine. I think this is an oddity with my
+> windows install, as I have a couple of other weird (minor) problems as
+> well.
+> 
+> All the best,
+> 
+> Fuzzyman
+> http://www.voidspace.org.uk/python/index.shtml
+> 
+> > 
+> > 
+> > 2006/1/6, Fuzzyman <fuzzyman at voidspace.org.uk>: 
+> >         _______________________________________________
+> >         http://pythonide.stani.be
+> >         http://pythonide.stani.be/manual/html/manual.html 
+> >         http://pythonide.stani.be/blog/sm_donate
+> >         _______________________________________________
+> >         Hello Stani (and others),
+> >         
+> >         I once again tried uninstalling/installing OpenOffice 2 at
+> >         home. It sill 
+> >         failed to open manual.odt. Most frustrating.
+> >         
+> >         OpenOffice here at work fine. I'm in tomorrow morning, and
+> >         it's usually
+> >         quiet - so I may have a chance to look at it then. Does
+> >         OpenOffice have
+> >         diff/merge/versioning capabilities ? 
+> >         
+> >         Anyway - I have another suggestion. This may already exist,
+> >         if it does I
+> >         apologise - but I'm not aware of it.
+> >         
+> >         How about a "documentation TODO list" ? This could be a list
+> >         of features
+> >         that are undocumented or poorly documented. 
+> >         
+> >         As you add new features but don't have time to document them
+> >         you can add
+> >         them to this list. Volunteers (like myself) can then look at
+> >         the list
+> >         and pick an item to work on. This breaks the documentation
+> >         task down 
+> >         into smaller amounts. I quite enjoy writing documentation -
+> >         so if I knew
+> >         *specifically* what features needed writing, then I would
+> >         have a go.
+> >         
+> >         Of course the list would need maintaining - but once it is
+> >         created that 
+> >         is a *relatively* trivial task.
+> >         
+> >         All the best,
+> >         
+> >         Fuzzyman
+> >         http://www.voidspace.org.uk/python/index.shtml
+> >         
+> >         _______________________________________________ 
+> >         Python-spe-doc mailing list
+> >         Python-spe-doc at lists.berlios.de
+> >         http://lists.berlios.de/mailman/listinfo/python-spe-doc 
+> > 
+> > 
+> > 
+> > -- 
+> > Saludos / Best regards
+> > 
+> > Mario Lacunza
+> > Desarrollador de Sistemas - Webmaster
+> > Desarrollador 2 Estrellas  VS2005
+> > 
+> > Email: mlacunza [AT] gmail [DOT] com 
+> > Website: http://mlacunzav.cogia.net
+> > Blog: http://mlacunza.blogspot.com/
+> > Lima - Peru
+> 
+
+
+
+From fuzzyman at voidspace.org.uk  Mon Jan  9 11:39:00 2006
+From: fuzzyman at voidspace.org.uk (Fuzzyman)
+Date: Mon, 09 Jan 2006 10:39:00 +0000
+Subject: [spe-doc] Documentation TODO List
+In-Reply-To: <1136645083.7400.4.camel@laptop>
+References: <43BE42F5.4010407@voidspace.org.uk>	 <771741b20601060942g601ccd4fl@mail.gmail.com>	 <43BF7C8E.6040804@voidspace.org.uk> <1136645083.7400.4.camel@laptop>
+Message-ID: <43C23D44.3040002@voidspace.org.uk>
+
+Mario Lacunza wrote:
+
+>_______________________________________________
+>http://pythonide.stani.be
+>http://pythonide.stani.be/manual/html/manual.html
+>http://pythonide.stani.be/blog/sm_donate _______________________________________________
+>Hi,
+>
+>In my Ubuntu when Ooo spend some time to open the manual....  how many
+>time you wait?
+>
+>  
+>
+Many, many time. :-)
+
+Seriously, it just hangs. I've left it for over ten minutes before. On
+my work computer it opens very quickly.
+
+On a positive note, it looks like there is a good user/developer
+community growing around SPE - very encouraging.
+
+All the best,
+
+Fuzzyman
+http://www.voidspace.org.uk/python/index.shtml
+
+>El s?b, 07-01-2006 a las 08:32 +0000, Fuzzyman escribi?:
+>  
+>
+>>Mario Lacunza wrote: 
+>>    
+>>
+>>>What's your problem with Ooo?? whats your OS?
+>>>      
+>>>
+>>Windows XP SP2.
+>>
+>>Ooo hangs when I try to open "manual.odt". I've tried the version with
+>>Java and without, and uninstalling and re-installing.
+>>
+>>When I try it at work it opens fine. I think this is an oddity with my
+>>windows install, as I have a couple of other weird (minor) problems as
+>>well.
+>>
+>>All the best,
+>>
+>>Fuzzyman
+>>http://www.voidspace.org.uk/python/index.shtml
+>>
+>>    
+>>
+>>>2006/1/6, Fuzzyman <fuzzyman at voidspace.org.uk>: 
+>>>        _______________________________________________
+>>>        http://pythonide.stani.be
+>>>        http://pythonide.stani.be/manual/html/manual.html 
+>>>        http://pythonide.stani.be/blog/sm_donate
+>>>        _______________________________________________
+>>>        Hello Stani (and others),
+>>>        
+>>>        I once again tried uninstalling/installing OpenOffice 2 at
+>>>        home. It sill 
+>>>        failed to open manual.odt. Most frustrating.
+>>>        
+>>>        OpenOffice here at work fine. I'm in tomorrow morning, and
+>>>        it's usually
+>>>        quiet - so I may have a chance to look at it then. Does
+>>>        OpenOffice have
+>>>        diff/merge/versioning capabilities ? 
+>>>        
+>>>        Anyway - I have another suggestion. This may already exist,
+>>>        if it does I
+>>>        apologise - but I'm not aware of it.
+>>>        
+>>>        How about a "documentation TODO list" ? This could be a list
+>>>        of features
+>>>        that are undocumented or poorly documented. 
+>>>        
+>>>        As you add new features but don't have time to document them
+>>>        you can add
+>>>        them to this list. Volunteers (like myself) can then look at
+>>>        the list
+>>>        and pick an item to work on. This breaks the documentation
+>>>        task down 
+>>>        into smaller amounts. I quite enjoy writing documentation -
+>>>        so if I knew
+>>>        *specifically* what features needed writing, then I would
+>>>        have a go.
+>>>        
+>>>        Of course the list would need maintaining - but once it is
+>>>        created that 
+>>>        is a *relatively* trivial task.
+>>>        
+>>>        All the best,
+>>>        
+>>>        Fuzzyman
+>>>        http://www.voidspace.org.uk/python/index.shtml
+>>>        
+>>>        _______________________________________________ 
+>>>        Python-spe-doc mailing list
+>>>        Python-spe-doc at lists.berlios.de
+>>>        http://lists.berlios.de/mailman/listinfo/python-spe-doc 
+>>>
+>>>
+>>>
+>>>-- 
+>>>Saludos / Best regards
+>>>
+>>>Mario Lacunza
+>>>Desarrollador de Sistemas - Webmaster
+>>>Desarrollador 2 Estrellas  VS2005
+>>>
+>>>Email: mlacunza [AT] gmail [DOT] com 
+>>>Website: http://mlacunzav.cogia.net
+>>>Blog: http://mlacunza.blogspot.com/
+>>>Lima - Peru
+>>>      
+>>>
+>
+>_______________________________________________
+>Python-spe-doc mailing list
+>Python-spe-doc at lists.berlios.de
+>http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>
+>  
+>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060109/c9f72380/attachment.html>
+
+From mlacunza at gmail.com  Mon Jan  9 17:25:38 2006
+From: mlacunza at gmail.com (Mario Lacunza)
+Date: Mon, 9 Jan 2006 11:25:38 -0500
+Subject: [spe-doc] Documentation TODO List
+In-Reply-To: <43C23D44.3040002@voidspace.org.uk>
+References: <43BE42F5.4010407@voidspace.org.uk>
+	 <771741b20601060942g601ccd4fl@mail.gmail.com>
+	 <43BF7C8E.6040804@voidspace.org.uk> <1136645083.7400.4.camel@laptop>
+	 <43C23D44.3040002@voidspace.org.uk>
+Message-ID: <771741b20601090825y624f7e29x@mail.gmail.com>
+
+Uhm....a question: do you have internet connection in your house?? Because I
+think then in the work you have it?? Its correct??
+
+Is the answer is YES, I see then Spe Manual connect to internet, I think is
+for some graphic/figure maybe???? or internal link???
+
+
+2006/1/9, Fuzzyman <fuzzyman at voidspace.org.uk>:
+>
+> Mario Lacunza wrote:
+>
+> _______________________________________________
+> http://pythonide.stani.be
+> http://pythonide.stani.be/manual/html/manual.html
+> http://pythonide.stani.be/blog/sm_donate _______________________________________________
+> Hi,
+>
+> In my Ubuntu when Ooo spend some time to open the manual....  how many
+> time you wait?
+>
+>    Many, many time. :-)
+>
+> Seriously, it just hangs. I've left it for over ten minutes before. On my
+> work computer it opens very quickly.
+>
+> On a positive note, it looks like there is a good user/developer community
+> growing around SPE - very encouraging.
+>
+> All the best,
+>
+> Fuzzyman
+> http://www.voidspace.org.uk/python/index.shtml
+>
+>  El s?b, 07-01-2006 a las 08:32 +0000, Fuzzyman escribi?:
+>
+>  Mario Lacunza wrote:
+>
+>  What's your problem with Ooo?? whats your OS?
+>
+>  Windows XP SP2.
+>
+> Ooo hangs when I try to open "manual.odt". I've tried the version with
+> Java and without, and uninstalling and re-installing.
+>
+> When I try it at work it opens fine. I think this is an oddity with my
+> windows install, as I have a couple of other weird (minor) problems as
+> well.
+>
+> All the best,
+>
+> Fuzzyman
+> http://www.voidspace.org.uk/python/index.shtml
+>
+>      2006/1/6, Fuzzyman <fuzzyman at voidspace.org.uk> <fuzzyman at voidspace.org.uk>:
+>         _______________________________________________
+>         http://pythonide.stani.be
+>         http://pythonide.stani.be/manual/html/manual.html
+>         http://pythonide.stani.be/blog/sm_donate
+>         _______________________________________________
+>         Hello Stani (and others),
+>
+>         I once again tried uninstalling/installing OpenOffice 2 at
+>         home. It sill
+>         failed to open manual.odt. Most frustrating.
+>
+>         OpenOffice here at work fine. I'm in tomorrow morning, and
+>         it's usually
+>         quiet - so I may have a chance to look at it then. Does
+>         OpenOffice have
+>         diff/merge/versioning capabilities ?
+>
+>         Anyway - I have another suggestion. This may already exist,
+>         if it does I
+>         apologise - but I'm not aware of it.
+>
+>         How about a "documentation TODO list" ? This could be a list
+>         of features
+>         that are undocumented or poorly documented.
+>
+>         As you add new features but don't have time to document them
+>         you can add
+>         them to this list. Volunteers (like myself) can then look at
+>         the list
+>         and pick an item to work on. This breaks the documentation
+>         task down
+>         into smaller amounts. I quite enjoy writing documentation -
+>         so if I knew
+>         *specifically* what features needed writing, then I would
+>         have a go.
+>
+>         Of course the list would need maintaining - but once it is
+>         created that
+>         is a *relatively* trivial task.
+>
+>         All the best,
+>
+>         Fuzzyman
+>         http://www.voidspace.org.uk/python/index.shtml
+>
+>         _______________________________________________
+>         Python-spe-doc mailing list
+>         Python-spe-doc at lists.berlios.de
+>         http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>
+>
+>
+> --
+> Saludos / Best regards
+>
+> Mario Lacunza
+> Desarrollador de Sistemas - Webmaster
+> Desarrollador 2 Estrellas  VS2005
+>
+> Email: mlacunza [AT] gmail [DOT] com
+> Website: http://mlacunzav.cogia.net
+> Blog: http://mlacunza.blogspot.com/
+> Lima - Peru
+>
+>  _______________________________________________
+> Python-spe-doc mailing list
+> Python-spe-doc at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>
+>
+>
+
+
+--
+Saludos / Best regards
+
+Mario Lacunza
+Desarrollador de Sistemas - Webmaster
+Desarrollador 2 Estrellas  VS2005
+
+Email: mlacunza [AT] gmail [DOT] com
+Website: http://mlacunzav.cogia.net
+Blog: http://mlacunza.blogspot.com/
+Lima - Peru
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060109/37bd8843/attachment.html>
+
+From spe.stani.be at gmail.com  Mon Jan  9 17:30:28 2006
+From: spe.stani.be at gmail.com (SPE Stani's Python Editor)
+Date: Mon, 9 Jan 2006 17:30:28 +0100
+Subject: [spe-doc] Documentation TODO List
+In-Reply-To: <771741b20601090825y624f7e29x@mail.gmail.com>
+References: <43BE42F5.4010407@voidspace.org.uk>
+	 <771741b20601060942g601ccd4fl@mail.gmail.com>
+	 <43BF7C8E.6040804@voidspace.org.uk> <1136645083.7400.4.camel@laptop>
+	 <43C23D44.3040002@voidspace.org.uk>
+	 <771741b20601090825y624f7e29x@mail.gmail.com>
+Message-ID: <2078a7ad0601090830p85aefcs46a6044b6f45aa2b@mail.gmail.com>
+
+The manual indeed contains hrefs, as that was the quickest. Maybe
+that's the reason.
+Stani
+
+On 1/9/06, Mario Lacunza <mlacunza at gmail.com> wrote:
+> Uhm....a question: do you have internet connection in your house?? Because I
+> think then in the work you have it?? Its correct??
+>
+> Is the answer is YES, I see then Spe Manual connect to internet, I think is
+> for some graphic/figure maybe???? or internal link???
+>
+>
+> 2006/1/9, Fuzzyman <fuzzyman at voidspace.org.uk>:
+> > Mario Lacunza wrote:
+> > _______________________________________________
+> > http://pythonide.stani.be
+> >
+http://pythonide.stani.be/manual/html/manual.html
+> > http://pythonide.stani.be/blog/sm_donate
+> _______________________________________________
+> > Hi,
+> >
+> > In my Ubuntu when Ooo spend some time to open the manual.... how many
+> > time you wait?
+> >
+> >
+> > Many, many time. :-)
+> >
+> > Seriously, it just hangs. I've left it for over ten minutes before. On my
+> work computer it opens very quickly.
+> >
+> > On a positive note, it looks like there is a good user/developer community
+> growing around SPE - very encouraging.
+> >
+> >
+> > All the best,
+> >
+> > Fuzzyman
+> > http://www.voidspace.org.uk/python/index.shtml
+> >
+> >
+> >
+> > El s?b, 07-01-2006 a las 08:32 +0000, Fuzzyman escribi?:
+> >
+> >
+> > Mario Lacunza wrote:
+> >
+> >
+> > What's your problem with Ooo?? whats your OS?
+> >
+> > Windows XP SP2.
+> >
+> > Ooo hangs when I try to open "manual.odt". I've tried the version with
+> > Java and without, and uninstalling and re-installing.
+> >
+> > When I try it at work it opens fine. I think this is an oddity with my
+> > windows install, as I have a couple of other weird (minor) problems as
+> > well.
+> >
+> > All the best,
+> >
+> > Fuzzyman
+> >
+http://www.voidspace.org.uk/python/index.shtml
+> >
+> >
+> >
+> > 2006/1/6, Fuzzyman <fuzzyman at voidspace.org.uk>:
+> > _______________________________________________
+> > http://pythonide.stani.be
+> >
+http://pythonide.stani.be/manual/html/manual.html
+> > http://pythonide.stani.be/blog/sm_donate
+> > _______________________________________________
+> > Hello Stani (and others),
+> >
+> > I once again tried uninstalling/installing OpenOffice 2 at
+> > home. It sill
+> > failed to open
+manual.odt. Most frustrating.
+> >
+> > OpenOffice here at work fine. I'm in tomorrow morning, and
+> > it's usually
+> > quiet - so I may have a chance to look at it then. Does
+> > OpenOffice have
+> > diff/merge/versioning capabilities ?
+> >
+> > Anyway - I have another suggestion. This may already exist,
+> > if it does I
+> > apologise - but I'm not aware of it.
+> >
+> > How about a "documentation TODO list" ? This could be a list
+> > of features
+> > that are undocumented or poorly documented.
+> >
+> > As you add new features but don't have time to document them
+> > you can add
+> > them to this list. Volunteers (like myself) can then look at
+> > the list
+> > and pick an item to work on. This breaks the documentation
+> > task down
+> > into smaller amounts. I quite enjoy writing documentation -
+> > so if I knew
+> > *specifically* what features needed writing, then I would
+> > have a go.
+> >
+> > Of course the list would need maintaining - but once it is
+> > created that
+> > is a *relatively* trivial task.
+> >
+> > All the best,
+> >
+> > Fuzzyman
+> > http://www.voidspace.org.uk/python/index.shtml
+> >
+> > _______________________________________________
+> > Python-spe-doc mailing list
+> >
+Python-spe-doc at lists.berlios.de
+> >
+> http://lists.berlios.de/mailman/listinfo/python-spe-doc
+> >
+> >
+> >
+> > --
+> > Saludos / Best regards
+> >
+> > Mario Lacunza
+> > Desarrollador de Sistemas - Webmaster
+> > Desarrollador 2 Estrellas VS2005
+> >
+> > Email: mlacunza [AT] gmail [DOT] com
+> > Website:
+http://mlacunzav.cogia.net
+> > Blog: http://mlacunza.blogspot.com/
+> > Lima - Peru
+> >
+> > _______________________________________________
+> > Python-spe-doc mailing list
+> >
+Python-spe-doc at lists.berlios.de
+> >
+> http://lists.berlios.de/mailman/listinfo/python-spe-doc
+> >
+> >
+> >
+> >
+>
+>
+>
+> --
+> Saludos / Best regards
+>
+> Mario Lacunza
+> Desarrollador de Sistemas - Webmaster
+> Desarrollador 2 Estrellas  VS2005
+>
+> Email: mlacunza [AT] gmail [DOT] com
+> Website: http://mlacunzav.cogia.net
+> Blog: http://mlacunza.blogspot.com/
+> Lima - Peru
+
+
+--
+http://pythonide.stani.be
+http://pythonide.stani.be/screenshots
+http://pythonide.stani.be/manual/html/manual.html
+
+
+From fuzzyman at voidspace.org.uk  Mon Jan  9 17:36:26 2006
+From: fuzzyman at voidspace.org.uk (Fuzzyman)
+Date: Mon, 09 Jan 2006 16:36:26 +0000
+Subject: [spe-doc] Documentation TODO List
+In-Reply-To: <771741b20601090825y624f7e29x@mail.gmail.com>
+References: <43BE42F5.4010407@voidspace.org.uk>	 <771741b20601060942g601ccd4fl@mail.gmail.com>	 <43BF7C8E.6040804@voidspace.org.uk> <1136645083.7400.4.camel@laptop>	 <43C23D44.3040002@voidspace.org.uk> <771741b20601090825y624f7e29x@mail.gmail.com>
+Message-ID: <43C2910A.3050602@voidspace.org.uk>
+
+Mario Lacunza wrote:
+
+> Uhm....a question: do you have internet connection in your house??
+> Because I think then in the work you have it?? Its correct??
+>
+> Is the answer is YES, I see then Spe Manual connect to internet, I
+> think is for some graphic/figure maybe???? or internal link???
+>
+
+Ahh... I have an intranet without an internet connection. That means
+it's hanging waiting for the connection. It never seems to return
+though. *rats*.
+
+I have a proxy server setup for this occasion (that returns 404 on all
+connections so that stuff doesn't hang). I'll see if I can configure
+Open Office to use that proxy.
+
+Thanks
+
+Fuzzyman
+http://www.voidspace.org.uk/python/index.shtml
+
+>
+> 2006/1/9, Fuzzyman <fuzzyman at voidspace.org.uk
+> <mailto:fuzzyman at voidspace.org.uk>>:
+>
+>     Mario Lacunza wrote:
+>
+>>_______________________________________________
+>>http://pythonide.stani.be
+>>
+>>http://pythonide.stani.be/manual/html/manual.html
+>>http://pythonide.stani.be/blog/sm_donate
+>> _______________________________________________
+>>Hi,
+>>
+>>In my Ubuntu when Ooo spend some time to open the manual....  how many
+>>time you wait?
+>>
+>>  
+>>
+>     Many, many time. :-)
+>
+>     Seriously, it just hangs. I've left it for over ten minutes
+>     before. On my work computer it opens very quickly.
+>
+>     On a positive note, it looks like there is a good user/developer
+>     community growing around SPE - very encouraging.
+>
+>
+>     All the best,
+>
+>     Fuzzyman
+>     http://www.voidspace.org.uk/python/index.shtml
+>
+>>El s?b, 07-01-2006 a las 08:32 +0000, Fuzzyman escribi?:
+>>  
+>>
+>>>Mario Lacunza wrote: 
+>>>    
+>>>
+>>>>What's your problem with Ooo?? whats your OS?
+>>>>      
+>>>>
+>>>Windows XP SP2.
+>>>
+>>>Ooo hangs when I try to open "manual.odt". I've tried the version with
+>>>Java and without, and uninstalling and re-installing.
+>>>
+>>>When I try it at work it opens fine. I think this is an oddity with my
+>>>
+>>>windows install, as I have a couple of other weird (minor) problems as
+>>>well.
+>>>
+>>>All the best,
+>>>
+>>>Fuzzyman
+>>>
+>>>http://www.voidspace.org.uk/python/index.shtml
+>>>
+>>>    
+>>>
+>>>>2006/1/6, Fuzzyman <fuzzyman at voidspace.org.uk> <mailto:fuzzyman at voidspace.org.uk>: 
+>>>>        _______________________________________________
+>>>>
+>>>>        http://pythonide.stani.be
+>>>>        
+>>>>http://pythonide.stani.be/manual/html/manual.html 
+>>>>        http://pythonide.stani.be/blog/sm_donate
+>>>> <http://pythonide.stani.be/blog/sm_donate>
+>>>>        _______________________________________________
+>>>>        Hello Stani (and others),
+>>>>        
+>>>>        I once again tried uninstalling/installing OpenOffice 2 at
+>>>>        home. It sill 
+>>>>        failed to open 
+>>>>manual.odt. Most frustrating.
+>>>>        
+>>>>        OpenOffice here at work fine. I'm in tomorrow morning, and
+>>>>        it's usually
+>>>>        quiet - so I may have a chance to look at it then. Does
+>>>>        OpenOffice have
+>>>>
+>>>>        diff/merge/versioning capabilities ? 
+>>>>        
+>>>>        Anyway - I have another suggestion. This may already exist,
+>>>>        if it does I
+>>>>        apologise - but I'm not aware of it.
+>>>>        
+>>>>        How about a "documentation TODO list" ? This could be a list
+>>>>
+>>>>        of features
+>>>>        that are undocumented or poorly documented. 
+>>>>        
+>>>>        As you add new features but don't have time to document them
+>>>>        you can add
+>>>>        them to this list. Volunteers (like myself) can then look at
+>>>>
+>>>>        the list
+>>>>        and pick an item to work on. This breaks the documentation
+>>>>        task down 
+>>>>        into smaller amounts. I quite enjoy writing documentation -
+>>>>        so if I knew
+>>>>        *specifically* what features needed writing, then I would
+>>>>
+>>>>        have a go.
+>>>>        
+>>>>        Of course the list would need maintaining - but once it is
+>>>>        created that 
+>>>>        is a *relatively* trivial task.
+>>>>        
+>>>>        All the best,
+>>>>        
+>>>>
+>>>>        Fuzzyman
+>>>>        http://www.voidspace.org.uk/python/index.shtml
+>>>>        
+>>>>
+>>>>        _______________________________________________ 
+>>>>        Python-spe-doc mailing list
+>>>>        
+>>>>Python-spe-doc at lists.berlios.de <mailto:Python-spe-doc at lists.berlios.de>
+>>>>        http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>>>> <http://lists.berlios.de/mailman/listinfo/python-spe-doc> 
+>>>>
+>>>>
+>>>>
+>>>>-- 
+>>>>Saludos / Best regards
+>>>>
+>>>>Mario Lacunza
+>>>>Desarrollador de Sistemas - Webmaster
+>>>>Desarrollador 2 Estrellas  VS2005
+>>>>
+>>>>Email: mlacunza [AT] gmail [DOT] com 
+>>>>Website: 
+>>>>http://mlacunzav.cogia.net
+>>>>Blog: http://mlacunza.blogspot.com/
+>>>>Lima - Peru
+>>>>      
+>>>>
+>>_______________________________________________
+>>Python-spe-doc mailing list
+>>
+>>Python-spe-doc at lists.berlios.de <mailto:Python-spe-doc at lists.berlios.de>
+>>http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>> <http://lists.berlios.de/mailman/listinfo/python-spe-doc>
+>>
+>>  
+>>
+>
+>
+>
+>
+> -- 
+> Saludos / Best regards
+>
+> Mario Lacunza
+> Desarrollador de Sistemas - Webmaster
+> Desarrollador 2 Estrellas  VS2005
+>
+> Email: mlacunza [AT] gmail [DOT] com
+> Website: http://mlacunzav.cogia.net
+> Blog: http://mlacunza.blogspot.com/
+> Lima - Peru 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060109/8017ad47/attachment.html>
+
+From spe.stani.be at gmail.com  Mon Jan  9 19:50:07 2006
+From: spe.stani.be at gmail.com (SPE Stani's Python Editor)
+Date: Mon, 9 Jan 2006 19:50:07 +0100
+Subject: [spe-doc] Documentation editing/translating
+Message-ID: <2078a7ad0601091050s5a490487i6f4918f13b419ad8@mail.gmail.com>
+
+Hi everyone,
+
+From fuzzyman at voidspace.org.uk  Fri Jan 13 11:08:51 2006
+From: fuzzyman at voidspace.org.uk (Fuzzyman)
+Date: Fri, 13 Jan 2006 10:08:51 +0000
+Subject: [spe-doc] Editing Manual without Internet
+Message-ID: <43C77C33.8060303@voidspace.org.uk>
+
+Hello all,
+
+I confirmed yesterday that *it is* the internet connection (or lack of)
+that causes my problem with Open Office.
+
+Even with a  proxy server returning a 404, it took *twenty minutes* to
+open. (I could see the requests going to my proxy server).
+
+I can find no way of preventing Open Office from attempting to access
+the internet.
+
+I'll have to do edits as text diffs. I can save the manual as text from
+work.
+
+All the best,
+
+Fuzzyman
+http://www.voidspace.org.uk/python/index.shtml
+
+
+From spe.stani.be at gmail.com  Sun Jan 15 23:10:58 2006
+From: spe.stani.be at gmail.com (SPE Stani's Python Editor)
+Date: Sun, 15 Jan 2006 23:10:58 +0100
+Subject: [spe-doc] documentation wake up call
+Message-ID: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+
+Hi all,
+
+As some of you might have noticed, I've started keeping the
+documentation up to date with the latest developments of SPE. I'd like
+to see that SPE doesn't suffer from which most open source project
+suffer:
+
+"Eric3 is documented as well as the other open-source projects we
+looked at, which is to say, there are some screenshots and a mailing
+list."
+
+This quote comes from
+http://spyced.blogspot.com/2005/09/review-of-6-python-ides.html The
+author of this article, Jonathan Ellis, will review SPE for the first
+time for PyCon I'd like to send him as quick as possible an updated
+version. I'd like him to make quite a different comment about SPE.
+
+COORDINATOR
+
+I am pleased to announce that Kyle Odom volunteers to become the
+documentation manager. He will from now on play an important role to
+boost the documentation of SPE to another level. Correspondence should
+be done through this mailing list.
+
+TUTORIAL
+
+What is now urgent is that Dimitri from serpia.com can finish the new
+tuturial. I've updated him with the latest manual. Running files has
+drastically changed since his previous tutorial. Dimitri has asked
+someone to take screenshots. Jeff, maybe a student at your school can
+do that, or Kyle could you otherwise do it? It is important that
+Jonathan Ellis could have the updated manual with this. He would
+review SPE mid january. I guess I can send the manual a bit later...
+
+WIKI
+
+The documentation could be still improved a lot and has still some
+things not covered. Therefore Fuzzyman suggested to put a
+documentation todo wiki. Good idea! I've put up a first version, which
+can be improved and coordinated by Kyle. You can find it here:
+http://pythonide.stani.be/dev/wiki/FrontPage
+
+TRANSLATION
+
+I would like to start with the Spanish translation. I think Mario has
+already started with this. So Mario and Kyle now you can work
+together. So green light for the manual! Mario could you make a
+planning and update us about your progress?
+
+REVIEW
+
+All native english speakers are kindly asked to review the SPE manual
+from time to time. Thanks!
+
+DONATIONWARE
+
+The pdf manual of SPE is donationware. It is available for free with
+ads on the internet (this could be improved, but where is my time ;-)
+and any donor or contributor can get it. Even if one would donate 1
+euro, so I think it is still democratic.
+
+EDUBUNTULAB
+
+I'm also pleased to announce that SPE is now used as the Python IDE at
+the Yorktown High School in Arlington, where Jeff Elkner is
+responsable for CS and runs an edubuntulab. The high school could also
+play an important role into SPE's documentation. Jeff writes:
+"Documentation is something to which we can certainly contribute.  And
+I would be delighted to work out with you how best we can do that."
+For sure this could help SPE a lot, isn't it Kyle? With Jeff, I will
+also try to improve SPE on Ubuntu and see how SPE could fit to
+students.
+
+OK, ACTION...
+
+I am really happy with Kyle's offer. I hope that once the
+documentation is on rails, I can have more time for SPE.
+
+The first main question is: what can we do to send Jonathan Ellis an
+improved documentation (screenshots, missing chapters, ...)?
+
+Stani
+
+--
+http://pythonide.stani.be
+http://pythonide.stani.be/screenshots
+http://pythonide.stani.be/manual/html/manual.html
+
+
+From mlacunza at gmail.com  Mon Jan 16 07:55:18 2006
+From: mlacunza at gmail.com (Mario Lacunza)
+Date: Mon, 16 Jan 2006 01:55:18 -0500
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+Message-ID: <1137394519.7179.25.camel@laptop>
+
+Hello!
+
+
+Great notices Stani.... 
+
+> TRANSLATION
+> 
+> I would like to start with the Spanish translation. I think Mario has
+> already started with this. So Mario and Kyle now you can work
+> together. So green light for the manual! Mario could you make a
+> planning and update us about your progress?
+> 
+
+Yes, I receipt from you(07-01-2006), the manual last version(?) dated on
+06-01-2006, its ok or you have a new version? 
+
+I finished read it, I take notes of structure, links, improvements,
+etc. 
+
+Idea: is possible then you send me a list of finished points or it could
+be not rewrite or edited? Because I think start with them my
+translation.
+
+My plan is tranlate 2-3 pages for common days and lot more weekends.
+Thats means I planed finish the translate on January 31 - 02
+February/2006
+
+Suggest: 
+-Spe Manual: control version!!
+
+
+Mi configuracion/My config:
+
+Ubuntu Breezy 5.10
+Linux Kernel 2.6.12-10-386
+Python 2.4.2
+wxPython 2.6.1.1Pre
+
+-- 
+Saludos / Best regards 
+
+Mario Lacunza V?squez 
+Desarrollador de Software - Webmaster 
+Desarrollador 2 Estrellas VS2005
+
+Website        : http://mlacunzav.cogia.net 
+Email          : mlacunza[AT]gmail[DOT]com
+Email          : mario_lacunza[AT]yahoo[DOT]es 
+Blog           : http://mlacunza.blogspot.com 
+Lima - Peru
+
+
+
+From dimitri.pater at gmail.com  Mon Jan 16 23:18:11 2006
+From: dimitri.pater at gmail.com (dimitri pater)
+Date: Mon, 16 Jan 2006 23:18:11 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+Message-ID: <e75321bd0601161418k4bd89f9cmc9a1a1ebcd679e6d@mail.gmail.com>
+
+Hi,
+I am working on the new SPE tutorial now. The (temporary) url is
+http://www.serpia.org/spenew and maybe you can take a peek.
+Comments etc. are very welcome, please use the comment textbox at the bottom
+of the page. I want to get this over with asap so please participate in
+rewriting the tutorial by giving suggestions and stuff.
+
+thanks,
+Dimitri
+(yep, the screenshots need to be rescaled and sliced)
+
+On 1/15/06, SPE Stani's Python Editor <spe.stani.be at gmail.com> wrote:
+>
+> _______________________________________________
+> http://pythonide.stani.be
+> http://pythonide.stani.be/manual/html/manual.html
+> http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> Hi all,
+>
+> As some of you might have noticed, I've started keeping the
+> documentation up to date with the latest developments of SPE. I'd like
+> to see that SPE doesn't suffer from which most open source project
+> suffer:
+>
+> "Eric3 is documented as well as the other open-source projects we
+> looked at, which is to say, there are some screenshots and a mailing
+> list."
+>
+> This quote comes from
+> http://spyced.blogspot.com/2005/09/review-of-6-python-ides.html The
+> author of this article, Jonathan Ellis, will review SPE for the first
+> time for PyCon I'd like to send him as quick as possible an updated
+> version. I'd like him to make quite a different comment about SPE.
+>
+> COORDINATOR
+>
+> I am pleased to announce that Kyle Odom volunteers to become the
+> documentation manager. He will from now on play an important role to
+> boost the documentation of SPE to another level. Correspondence should
+> be done through this mailing list.
+>
+> TUTORIAL
+>
+> What is now urgent is that Dimitri from serpia.com can finish the new
+> tuturial. I've updated him with the latest manual. Running files has
+> drastically changed since his previous tutorial. Dimitri has asked
+> someone to take screenshots. Jeff, maybe a student at your school can
+> do that, or Kyle could you otherwise do it? It is important that
+> Jonathan Ellis could have the updated manual with this. He would
+> review SPE mid january. I guess I can send the manual a bit later...
+>
+> WIKI
+>
+> The documentation could be still improved a lot and has still some
+> things not covered. Therefore Fuzzyman suggested to put a
+> documentation todo wiki. Good idea! I've put up a first version, which
+> can be improved and coordinated by Kyle. You can find it here:
+> http://pythonide.stani.be/dev/wiki/FrontPage
+>
+> TRANSLATION
+>
+> I would like to start with the Spanish translation. I think Mario has
+> already started with this. So Mario and Kyle now you can work
+> together. So green light for the manual! Mario could you make a
+> planning and update us about your progress?
+>
+> REVIEW
+>
+> All native english speakers are kindly asked to review the SPE manual
+> from time to time. Thanks!
+>
+> DONATIONWARE
+>
+> The pdf manual of SPE is donationware. It is available for free with
+> ads on the internet (this could be improved, but where is my time ;-)
+> and any donor or contributor can get it. Even if one would donate 1
+> euro, so I think it is still democratic.
+>
+> EDUBUNTULAB
+>
+> I'm also pleased to announce that SPE is now used as the Python IDE at
+> the Yorktown High School in Arlington, where Jeff Elkner is
+> responsable for CS and runs an edubuntulab. The high school could also
+> play an important role into SPE's documentation. Jeff writes:
+> "Documentation is something to which we can certainly contribute.  And
+> I would be delighted to work out with you how best we can do that."
+> For sure this could help SPE a lot, isn't it Kyle? With Jeff, I will
+> also try to improve SPE on Ubuntu and see how SPE could fit to
+> students.
+>
+> OK, ACTION...
+>
+> I am really happy with Kyle's offer. I hope that once the
+> documentation is on rails, I can have more time for SPE.
+>
+> The first main question is: what can we do to send Jonathan Ellis an
+> improved documentation (screenshots, missing chapters, ...)?
+>
+> Stani
+>
+> --
+> http://pythonide.stani.be
+> http://pythonide.stani.be/screenshots
+> http://pythonide.stani.be/manual/html/manual.html
+> _______________________________________________
+> Python-spe-doc mailing list
+> Python-spe-doc at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>
+
+
+
+--
+----
+"All truth passes through three stages. First, it is ridiculed. Second, it
+is violently opposed. Third, it is accepted as being self-evident."
+~Arthur Schopenhauer
+----
+Please visit dimitri's website: www.serpia.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060116/0468a5a6/attachment.html>
+
+From spe.stani.be at gmail.com  Tue Jan 17 00:25:57 2006
+From: spe.stani.be at gmail.com (SPE Stani's Python Editor)
+Date: Tue, 17 Jan 2006 00:25:57 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <1137394519.7179.25.camel@laptop>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+	 <1137394519.7179.25.camel@laptop>
+Message-ID: <2078a7ad0601161525g3f672ac9g58bec2ea4cfce30e@mail.gmail.com>
+
+On 1/16/06, Mario Lacunza <mlacunza at gmail.com> wrote:
+> Hello!
+>
+>
+> Great notices Stani....
+>
+> > TRANSLATION
+> >
+> > I would like to start with the Spanish translation. I think Mario has
+> > already started with this. So Mario and Kyle now you can work
+> > together. So green light for the manual! Mario could you make a
+> > planning and update us about your progress?
+> >
+>
+> Yes, I receipt from you(07-01-2006), the manual last version(?) dated on
+> 06-01-2006, its ok or you have a new version?
+Yes, I'll send you.
+>
+> I finished read it, I take notes of structure, links, improvements,
+> etc.
+>
+> Idea: is possible then you send me a list of finished points or it could
+> be not rewrite or edited? Because I think start with them my
+> translation.
+Things which are unstable at the moment. The SPE serpia tutorials.
+Dimitri, how are the other tutorials. Did they change (wxGlade and
+XRCed)?
+
+> My plan is tranlate 2-3 pages for common days and lot more weekends.
+> Thats means I planed finish the translate on January 31 - 02
+> February/2006
+Great!
+
+> Suggest:
+> -Spe Manual: control version!!
+It is there already ;-) On http://pythonide.stani.be/blog I mention
+changes in the manual.
+
+
+> Mi configuracion/My config:
+>
+> Ubuntu Breezy 5.10
+> Linux Kernel 2.6.12-10-386
+> Python 2.4.2
+> wxPython 2.6.1.1Pre
+They look good.
+
+I gave my comments to Dimitri about the new tutorial already. In case
+you haven't please visit the website http://www.serpia.org/spenew and
+give Dimitri your feedback. Please also some native English
+speakers...
+
+Thanks,
+Stani
+
+--
+http://pythonide.stani.be
+http://pythonide.stani.be/screenshots
+http://pythonide.stani.be/manual/html/manual.html
+
+
+From dimitri.pater at gmail.com  Tue Jan 17 00:38:07 2006
+From: dimitri.pater at gmail.com (dimitri pater)
+Date: Tue, 17 Jan 2006 00:38:07 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <2078a7ad0601161525g3f672ac9g58bec2ea4cfce30e@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+	 <1137394519.7179.25.camel@laptop>
+	 <2078a7ad0601161525g3f672ac9g58bec2ea4cfce30e@mail.gmail.com>
+Message-ID: <e75321bd0601161538p27821e2drb5c78d6375b90264@mail.gmail.com>
+
+Hi,
+
+> Things which are unstable at the moment. The SPE serpia tutorials.
+> Dimitri, how are the other tutorials. Did they change (wxGlade and
+> XRCed)?
+
+
+Well, the wxGlade still needs a serious update because it is out of date
+with the latest version of wxGlade. The current version of wxGlade is 0.4:
+it adds wxWidgets 2.6 suppport and code generation of event handler stubs
+for Python and C++ output. Volunteers to fix this? ;-)
+The XRCed has a dead link to the source code (easy to fix)
+
+> I gave my comments to Dimitri about the new tutorial already. In case
+> you haven't please visit the website http://www.serpia.org/spenew and
+> give Dimitri your feedback. Please also some native English
+> speakers...
+
+
+Yes please
+Thanks,
+Dimitri
+----
+"All truth passes through three stages. First, it is ridiculed. Second, it
+is violently opposed. Third, it is accepted as being self-evident."
+~Arthur Schopenhauer
+----
+Please visit dimitri's website: www.serpia.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060117/16ddeac7/attachment.html>
+
+From mlacunza at gmail.com  Tue Jan 17 05:24:39 2006
+From: mlacunza at gmail.com (Mario Lacunza)
+Date: Mon, 16 Jan 2006 23:24:39 -0500
+Subject: [spe-doc] Error in Manual
+Message-ID: <1137471880.15011.4.camel@laptop>
+
+Hi,
+
+I found this error in page 22, the figure is bad placed over:
+
+Insert signature (Ctrl+Shift+I)
+
+In the attach file I send you a image with the correction.
+
+
+Mi configuracion/My config:
+
+Ubuntu Breezy 5.10
+Linux Kernel 2.6.12-10-386
+Python 2.4.2
+wxPython 2.6.1.1Pre
+
+-- 
+Saludos / Best regards 
+
+Mario Lacunza V?squez 
+Desarrollador de Software - Webmaster 
+Desarrollador 2 Estrellas VS2005
+
+Website        : http://mlacunzav.cogia.net 
+Email          : mlacunza[AT]gmail[DOT]com
+Email          : mario_lacunza[AT]yahoo[DOT]es 
+Blog           : http://mlacunza.blogspot.com 
+Lima - Peru
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Pantallazo.png
+Type: image/png
+Size: 126053 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060116/ce662ba1/attachment.png>
+
+From dimitri.pater at gmail.com  Tue Jan 17 23:53:19 2006
+From: dimitri.pater at gmail.com (dimitri pater)
+Date: Tue, 17 Jan 2006 23:53:19 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <1137394519.7179.25.camel@laptop>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+	 <1137394519.7179.25.camel@laptop>
+Message-ID: <e75321bd0601171453n3acf988ahd94d9e2ec63113c9@mail.gmail.com>
+
+Dear Mario,
+does your translation work also include my tutorials? In that case, will you
+allow me to put those translations on my website (www.serpia.org) on a
+separate page?. I will give you full credit of course ;-)
+
+regards,
+Dimitri
+
+On 1/16/06, Mario Lacunza <mlacunza at gmail.com> wrote:
+>
+> _______________________________________________
+> http://pythonide.stani.be
+> http://pythonide.stani.be/manual/html/manual.html
+> http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> Hello!
+>
+>
+> Great notices Stani....
+>
+> > TRANSLATION
+> >
+> > I would like to start with the Spanish translation. I think Mario has
+> > already started with this. So Mario and Kyle now you can work
+> > together. So green light for the manual! Mario could you make a
+> > planning and update us about your progress?
+> >
+>
+> Yes, I receipt from you(07-01-2006), the manual last version(?) dated on
+> 06-01-2006, its ok or you have a new version?
+>
+> I finished read it, I take notes of structure, links, improvements,
+> etc.
+>
+> Idea: is possible then you send me a list of finished points or it could
+> be not rewrite or edited? Because I think start with them my
+> translation.
+>
+> My plan is tranlate 2-3 pages for common days and lot more weekends.
+> Thats means I planed finish the translate on January 31 - 02
+> February/2006
+>
+> Suggest:
+> -Spe Manual: control version!!
+>
+>
+> Mi configuracion/My config:
+>
+> Ubuntu Breezy 5.10
+> Linux Kernel 2.6.12-10-386
+> Python 2.4.2
+> wxPython 2.6.1.1Pre
+>
+> --
+> Saludos / Best regards
+>
+> Mario Lacunza V?squez
+> Desarrollador de Software - Webmaster
+> Desarrollador 2 Estrellas VS2005
+>
+> Website        : http://mlacunzav.cogia.net
+> Email          : mlacunza[AT]gmail[DOT]com
+> Email          : mario_lacunza[AT]yahoo[DOT]es
+> Blog           : http://mlacunza.blogspot.com
+> Lima - Peru
+>
+> _______________________________________________
+> Python-spe-doc mailing list
+> Python-spe-doc at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>
+
+
+
+--
+----
+"All truth passes through three stages. First, it is ridiculed. Second, it
+is violently opposed. Third, it is accepted as being self-evident."
+~Arthur Schopenhauer
+----
+Please visit dimitri's website: www.serpia.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060117/f91e1656/attachment.html>
+
+From dimitri.pater at gmail.com  Wed Jan 18 01:18:05 2006
+From: dimitri.pater at gmail.com (dimitri pater)
+Date: Wed, 18 Jan 2006 01:18:05 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <771741b20601171515s7fd24af9o@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+	 <1137394519.7179.25.camel@laptop>
+	 <e75321bd0601171453n3acf988ahd94d9e2ec63113c9@mail.gmail.com>
+	 <771741b20601171515s7fd24af9o@mail.gmail.com>
+Message-ID: <e75321bd0601171618i1541b69el1da662c702de28c0@mail.gmail.com>
+
+Nice!
+I will update the tutorials asap and send you the source files. The source
+files are plain text except for some tags that refer to the stylesheet that
+I use. As an example I will include the new spe tutorial. Beware, it is not
+finished! It only serves as an example! Is this format usable for you? That
+is the thing I would like to hear from you. You can easily paste the
+translated text in between the stylesheet tags.
+Thanks,
+Dimitri
+
+On 1/18/06, Mario Lacunza <mlacunza at gmail.com> wrote:
+>
+> Hello Dimitri,
+>
+> Yes I expected translate ALL in that manual :-) and if possible maybe the
+> examples too.
+>
+> Yes no problem, use my text in your site, send me the new text for wxGlade
+> and XRC for include in the manual.
+>
+> Thansk!
+>
+>
+>
+> 2006/1/17, dimitri pater <dimitri.pater at gmail.com>:
+> >
+> > Dear Mario,
+> > does your translation work also include my tutorials? In that case, will
+> > you allow me to put those translations on my website ( www.serpia.org)
+> > on a separate page?. I will give you full credit of course ;-)
+> >
+> > regards,
+> > Dimitri
+> >
+> >
+> --
+> Saludos / Best regards
+>
+> Mario Lacunza
+> Desarrollador de Sistemas - Webmaster
+> Desarrollador 2 Estrellas  VS2005
+>
+> Email: mlacunza [AT] gmail [DOT] com
+> Website: http://mlacunzav.cogia.net
+> Blog: http://mlacunza.blogspot.com/
+> Lima - Peru
+>
+
+
+
+--
+----
+"All truth passes through three stages. First, it is ridiculed. Second, it
+is violently opposed. Third, it is accepted as being self-evident."
+~Arthur Schopenhauer
+----
+Please visit dimitri's website: www.serpia.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060118/9fabc98b/attachment.html>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060118/9fabc98b/attachment-0001.html>
+
+From spe.stani.be at gmail.com  Wed Jan 18 21:53:17 2006
+From: spe.stani.be at gmail.com (SPE Stani's Python Editor)
+Date: Wed, 18 Jan 2006 21:53:17 +0100
+Subject: [spe-doc] better format for documentation?
+Message-ID: <2078a7ad0601181253x167d986bnb605c3c4a735edd6@mail.gmail.com>
+
+Hi,
+I noticed the announcement of asciidoc. Maybe this would be a better
+approach then openoffice: http://www.methods.co.nz/asciidoc? As it
+will make version control more easy.
+Stani
+--
+http://pythonide.stani.be
+http://pythonide.stani.be/screenshots
+http://pythonide.stani.be/manual/html/manual.html
+
+
+From mlacunza at gmail.com  Wed Jan 18 23:04:38 2006
+From: mlacunza at gmail.com (Mario Lacunza)
+Date: Wed, 18 Jan 2006 17:04:38 -0500
+Subject: [spe-doc] better format for documentation?
+In-Reply-To: <2078a7ad0601181253x167d986bnb605c3c4a735edd6@mail.gmail.com>
+References: <2078a7ad0601181253x167d986bnb605c3c4a735edd6@mail.gmail.com>
+Message-ID: <771741b20601181404u14b4587em@mail.gmail.com>
+
+Hi,
+
+No, I prefer Ooo...
+
+
+2006/1/18, SPE Stani's Python Editor <spe.stani.be at gmail.com>:
+>
+> _______________________________________________
+> http://pythonide.stani.be
+> http://pythonide.stani.be/manual/html/manual.html
+> http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> Hi,
+> I noticed the announcement of asciidoc. Maybe this would be a better
+> approach then openoffice: http://www.methods.co.nz/asciidoc? As it
+> will make version control more easy.
+> Stani
+> --
+> http://pythonide.stani.be
+> http://pythonide.stani.be/screenshots
+> http://pythonide.stani.be/manual/html/manual.html
+> _______________________________________________
+> Python-spe-doc mailing list
+> Python-spe-doc at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>
+
+
+
+--
+Saludos / Best regards
+
+Mario Lacunza
+Desarrollador de Sistemas - Webmaster
+Desarrollador 2 Estrellas  VS2005
+
+Email: mlacunza [AT] gmail [DOT] com
+Website: http://mlacunzav.cogia.net
+Blog: http://mlacunza.blogspot.com/
+Lima - Peru
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060118/b9137dac/attachment.html>
+
+From fuzzyman at voidspace.org.uk  Thu Jan 19 00:12:56 2006
+From: fuzzyman at voidspace.org.uk (Fuzzyman)
+Date: Wed, 18 Jan 2006 23:12:56 -0000
+Subject: [spe-doc] better format for documentation?
+Message-ID: <200601182311.k0INBsx03381@bat.berlios.de>
+
+
+-----Original Message-----
+>From: "SPE Stani's Python Editor"<spe.stani.be at gmail.com>
+>Sent: 18/01/06 20:53:17
+>To: "python-spe-doc at berlios.de"<python-spe-doc at berlios.de>
+>Subject: [spe-doc] better format for documentation?
+>
+>_______________________________________________
+>http://pythonide.stani.be
+>http://pythonide.stani.be/manual/html/manual.html
+>http://pythonide.stani.be/blog/sm_donate _______________________________________________
+>Hi,
+>I noticed the announcement of asciidoc. Maybe this would be a better
+>approach then openoffice: http://www.methods.co.nz/asciidoc? As it
+>will make version control more easy.
+
+I'd like to put in about twenty votes fo ReStructured Text.
+
+It's simple and flexible and you can generate both HTML & PDF (from LayTex).
+
+I do screenshots using irfanview (paste into it and then ctrl-R to resize), and use the image directive.
+
+The HTML output will be much nicer.
+
+You could even use rest2web to autobuild contents pages and *optionally* a sidebar - and put the adsense stuff into the template for an automated build. HTML is not my strong point though.
+
+I *really* like rest and it's kind of a standard as Python text markups go. What advantage would Asciidoc have over it ?
+
+You would lose your nice index though (until I add indexing to rest2web) - a google search box would sort that (and you get adsense income from search pages too).
+
+If you move to rest then you've got a volunteer to help migrate content. :-)
+
+Having version control on the docs is *good*.
+
+All the best,
+
+Fuzzyman
+Http://www.voidspace.org.uk/python/index.shtml
+
+
+>Stani
+>--
+>http://pythonide.stani.be
+>http://pythonide.stani.be/screenshots
+>http://pythonide.stani.be/manual/html/manual.html
+>_______________________________________________
+>Python-spe-doc mailing list
+>Python-spe-doc at lists.berlios.de
+>http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>>
+
+[Message truncated. Tap Edit->Mark for Download to get remaining portion.]
+
+
+
+From dimitri.pater at gmail.com  Fri Jan 20 00:17:33 2006
+From: dimitri.pater at gmail.com (dimitri pater)
+Date: Fri, 20 Jan 2006 00:17:33 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+Message-ID: <e75321bd0601191517q5c1a107aj84f01ccb518b67bc@mail.gmail.com>
+
+Dear all,
+I have updated the SPE, XRCed and the wxPython/wxGlade tutorials. I have to
+redo the screenshots for the SPE tutorial and will do so this weekend, but
+the content is as good as finished.
+Mario, I will send you the content*.html files for translation asap.
+Now, let's just hope that the PyCon reviewer likes SPE as much as we do!
+Thanks,
+Dimitri
+
+On 1/15/06, SPE Stani's Python Editor <spe.stani.be at gmail.com> wrote:
+>
+> _______________________________________________
+> http://pythonide.stani.be
+> http://pythonide.stani.be/manual/html/manual.html
+> http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> Hi all,
+>
+> As some of you might have noticed, I've started keeping the
+> documentation up to date with the latest developments of SPE. I'd like
+> to see that SPE doesn't suffer from which most open source project
+> suffer:
+>
+> "Eric3 is documented as well as the other open-source projects we
+> looked at, which is to say, there are some screenshots and a mailing
+> list."
+>
+> This quote comes from
+> http://spyced.blogspot.com/2005/09/review-of-6-python-ides.html The
+> author of this article, Jonathan Ellis, will review SPE for the first
+> time for PyCon I'd like to send him as quick as possible an updated
+> version. I'd like him to make quite a different comment about SPE.
+>
+> COORDINATOR
+>
+> I am pleased to announce that Kyle Odom volunteers to become the
+> documentation manager. He will from now on play an important role to
+> boost the documentation of SPE to another level. Correspondence should
+> be done through this mailing list.
+>
+> TUTORIAL
+>
+> What is now urgent is that Dimitri from serpia.com can finish the new
+> tuturial. I've updated him with the latest manual. Running files has
+> drastically changed since his previous tutorial. Dimitri has asked
+> someone to take screenshots. Jeff, maybe a student at your school can
+> do that, or Kyle could you otherwise do it? It is important that
+> Jonathan Ellis could have the updated manual with this. He would
+> review SPE mid january. I guess I can send the manual a bit later...
+>
+> WIKI
+>
+> The documentation could be still improved a lot and has still some
+> things not covered. Therefore Fuzzyman suggested to put a
+> documentation todo wiki. Good idea! I've put up a first version, which
+> can be improved and coordinated by Kyle. You can find it here:
+> http://pythonide.stani.be/dev/wiki/FrontPage
+>
+> TRANSLATION
+>
+> I would like to start with the Spanish translation. I think Mario has
+> already started with this. So Mario and Kyle now you can work
+> together. So green light for the manual! Mario could you make a
+> planning and update us about your progress?
+>
+> REVIEW
+>
+> All native english speakers are kindly asked to review the SPE manual
+> from time to time. Thanks!
+>
+> DONATIONWARE
+>
+> The pdf manual of SPE is donationware. It is available for free with
+> ads on the internet (this could be improved, but where is my time ;-)
+> and any donor or contributor can get it. Even if one would donate 1
+> euro, so I think it is still democratic.
+>
+> EDUBUNTULAB
+>
+> I'm also pleased to announce that SPE is now used as the Python IDE at
+> the Yorktown High School in Arlington, where Jeff Elkner is
+> responsable for CS and runs an edubuntulab. The high school could also
+> play an important role into SPE's documentation. Jeff writes:
+> "Documentation is something to which we can certainly contribute.  And
+> I would be delighted to work out with you how best we can do that."
+> For sure this could help SPE a lot, isn't it Kyle? With Jeff, I will
+> also try to improve SPE on Ubuntu and see how SPE could fit to
+> students.
+>
+> OK, ACTION...
+>
+> I am really happy with Kyle's offer. I hope that once the
+> documentation is on rails, I can have more time for SPE.
+>
+> The first main question is: what can we do to send Jonathan Ellis an
+> improved documentation (screenshots, missing chapters, ...)?
+>
+> Stani
+>
+> --
+> http://pythonide.stani.be
+> http://pythonide.stani.be/screenshots
+> http://pythonide.stani.be/manual/html/manual.html
+> _______________________________________________
+> Python-spe-doc mailing list
+> Python-spe-doc at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>
+
+
+
+--
+----
+"All truth passes through three stages. First, it is ridiculed. Second, it
+is violently opposed. Third, it is accepted as being self-evident."
+~Arthur Schopenhauer
+----
+Please visit dimitri's website: www.serpia.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060120/4c052195/attachment.html>
+
+From dimitri.pater at gmail.com  Sun Jan 22 01:07:28 2006
+From: dimitri.pater at gmail.com (dimitri pater)
+Date: Sun, 22 Jan 2006 01:07:28 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <e75321bd0601191517q5c1a107aj84f01ccb518b67bc@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+	 <e75321bd0601191517q5c1a107aj84f01ccb518b67bc@mail.gmail.com>
+Message-ID: <e75321bd0601211607u5966dc7dm6a6cd84f285d512c@mail.gmail.com>
+
+Hello there,
+the new SPE is done: http://www.serpia.org/spe
+comments are VERY welcome and please be honest about it. Good content is
+what counts ;-)
+What do you think about the size of the screenshots for example? Rescaling
+the images to a lower resolution results in a lesser quality. I have
+rescaled SPE first before taking the screenshots, but too much rescaling
+prior to making the screenshots made SPE look strange.
+
+Thanks,
+Dimitri
+
+
+On 1/20/06, dimitri pater <dimitri.pater at gmail.com> wrote:
+>
+> Dear all,
+> I have updated the SPE, XRCed and the wxPython/wxGlade tutorials. I have
+> to redo the screenshots for the SPE tutorial and will do so this weekend,
+> but the content is as good as finished.
+> Mario, I will send you the content*.html files for translation asap.
+> Now, let's just hope that the PyCon reviewer likes SPE as much as we do!
+> Thanks,
+> Dimitri
+>
+> On 1/15/06, SPE Stani's Python Editor < spe.stani.be at gmail.com> wrote:
+> >
+> > _______________________________________________
+> > http://pythonide.stani.be
+> > http://pythonide.stani.be/manual/html/manual.html
+> > http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> > Hi all,
+> >
+> > As some of you might have noticed, I've started keeping the
+> > documentation up to date with the latest developments of SPE. I'd like
+> > to see that SPE doesn't suffer from which most open source project
+> > suffer:
+> >
+> > "Eric3 is documented as well as the other open-source projects we
+> > looked at, which is to say, there are some screenshots and a mailing
+> > list."
+> >
+> > This quote comes from
+> > http://spyced.blogspot.com/2005/09/review-of-6-python-ides.html The
+> > author of this article, Jonathan Ellis, will review SPE for the first
+> > time for PyCon I'd like to send him as quick as possible an updated
+> > version. I'd like him to make quite a different comment about SPE.
+> >
+> > COORDINATOR
+> >
+> > I am pleased to announce that Kyle Odom volunteers to become the
+> > documentation manager. He will from now on play an important role to
+> > boost the documentation of SPE to another level. Correspondence should
+> > be done through this mailing list.
+> >
+> > TUTORIAL
+> >
+> > What is now urgent is that Dimitri from serpia.com can finish the new
+> > tuturial. I've updated him with the latest manual. Running files has
+> > drastically changed since his previous tutorial. Dimitri has asked
+> > someone to take screenshots. Jeff, maybe a student at your school can
+> > do that, or Kyle could you otherwise do it? It is important that
+> > Jonathan Ellis could have the updated manual with this. He would
+> > review SPE mid january. I guess I can send the manual a bit later...
+> >
+> > WIKI
+> >
+> > The documentation could be still improved a lot and has still some
+> > things not covered. Therefore Fuzzyman suggested to put a
+> > documentation todo wiki. Good idea! I've put up a first version, which
+> > can be improved and coordinated by Kyle. You can find it here:
+> > http://pythonide.stani.be/dev/wiki/FrontPage
+> >
+> > TRANSLATION
+> >
+> > I would like to start with the Spanish translation. I think Mario has
+> > already started with this. So Mario and Kyle now you can work
+> > together. So green light for the manual! Mario could you make a
+> > planning and update us about your progress?
+> >
+> > REVIEW
+> >
+> > All native english speakers are kindly asked to review the SPE manual
+> > from time to time. Thanks!
+> >
+> > DONATIONWARE
+> >
+> > The pdf manual of SPE is donationware. It is available for free with
+> > ads on the internet (this could be improved, but where is my time ;-)
+> > and any donor or contributor can get it. Even if one would donate 1
+> > euro, so I think it is still democratic.
+> >
+> > EDUBUNTULAB
+> >
+> > I'm also pleased to announce that SPE is now used as the Python IDE at
+> > the Yorktown High School in Arlington, where Jeff Elkner is
+> > responsable for CS and runs an edubuntulab. The high school could also
+> > play an important role into SPE's documentation. Jeff writes:
+> > "Documentation is something to which we can certainly contribute.  And
+> > I would be delighted to work out with you how best we can do that."
+> > For sure this could help SPE a lot, isn't it Kyle? With Jeff, I will
+> > also try to improve SPE on Ubuntu and see how SPE could fit to
+> > students.
+> >
+> > OK, ACTION...
+> >
+> > I am really happy with Kyle's offer. I hope that once the
+> > documentation is on rails, I can have more time for SPE.
+> >
+> > The first main question is: what can we do to send Jonathan Ellis an
+> > improved documentation (screenshots, missing chapters, ...)?
+> >
+> > Stani
+> >
+> > --
+> > http://pythonide.stani.be
+> > http://pythonide.stani.be/screenshots
+> > http://pythonide.stani.be/manual/html/manual.html
+> > _______________________________________________
+> > Python-spe-doc mailing list
+> > Python-spe-doc at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/python-spe-doc
+> >
+>
+>
+>
+> --
+> ----
+> "All truth passes through three stages. First, it is ridiculed. Second, it
+> is violently opposed. Third, it is accepted as being self-evident."
+> ~Arthur Schopenhauer
+> ----
+> Please visit dimitri's website: www.serpia.org
+>
+
+
+
+--
+----
+"All truth passes through three stages. First, it is ridiculed. Second, it
+is violently opposed. Third, it is accepted as being self-evident."
+~Arthur Schopenhauer
+----
+Please visit dimitri's website: www.serpia.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060122/28478b8f/attachment.html>
+
+From fuzzyman at voidspace.org.uk  Sun Jan 22 13:30:15 2006
+From: fuzzyman at voidspace.org.uk (Fuzzyman)
+Date: Sun, 22 Jan 2006 12:30:15 +0000
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <e75321bd0601211607u5966dc7dm6a6cd84f285d512c@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>	 <e75321bd0601191517q5c1a107aj84f01ccb518b67bc@mail.gmail.com> <e75321bd0601211607u5966dc7dm6a6cd84f285d512c@mail.gmail.com>
+Message-ID: <43D37AD7.1010302@voidspace.org.uk>
+
+dimitri pater wrote:
+> Hello there,
+> the new SPE is done: http://www.serpia.org/spe
+> comments are VERY welcome and please be honest about it. Good content
+> is what counts ;-)
+> What do you think about the size of the screenshots for example?
+> Rescaling the images to a lower resolution results in a lesser
+> quality. I have rescaled SPE first before taking the screenshots, but
+> too much rescaling prior to making the screenshots made SPE look strange.
+>
+They look good Dmitri. It covers features of SPE that I would like to
+use more, so I will efinitely read these. I will try and helpful
+comments if any spring to mind.
+
+My approach on screen shots is to use small ones (resized) inline with
+the text. I then make the images links to the fullsize image.
+
+All the best,
+
+Fuzzyman
+http://www.voidspace.org.uk/python/index.shtml
+> Thanks,
+> Dimitri
+>
+>
+> On 1/20/06, *dimitri pater* <dimitri.pater at gmail.com
+> <mailto:dimitri.pater at gmail.com>> wrote:
+>
+>     Dear all,
+>     I have updated the SPE, XRCed and the wxPython/wxGlade tutorials.
+>     I have to redo the screenshots for the SPE tutorial and will do so
+>     this weekend, but the content is as good as finished.
+>     Mario, I will send you the content*.html files for translation asap.
+>     Now, let's just hope that the PyCon reviewer likes SPE as much as
+>     we do!
+>     Thanks,
+>     Dimitri
+>
+>     On 1/15/06, *SPE Stani's Python Editor * < spe.stani.be at gmail.com
+>     <mailto:spe.stani.be at gmail.com>> wrote:
+>
+>         _______________________________________________
+>
+>         http://pythonide.stani.be
+>         http://pythonide.stani.be/manual/html/manual.html
+>         http://pythonide.stani.be/blog/sm_donate
+>         _______________________________________________
+>         Hi all,
+>
+>         As some of you might have noticed, I've started keeping the
+>         documentation up to date with the latest developments of SPE.
+>         I'd like
+>         to see that SPE doesn't suffer from which most open source project
+>         suffer:
+>
+>         "Eric3 is documented as well as the other open-source projects we
+>         looked at, which is to say, there are some screenshots and a
+>         mailing
+>         list."
+>
+>         This quote comes from
+>         http://spyced.blogspot.com/2005/09/review-of-6-python-ides.html
+>         <http://spyced.blogspot.com/2005/09/review-of-6-python-ides.html>
+>         The
+>         author of this article, Jonathan Ellis, will review SPE for
+>         the first
+>         time for PyCon I'd like to send him as quick as possible an
+>         updated
+>         version. I'd like him to make quite a different comment about SPE.
+>
+>         COORDINATOR
+>
+>         I am pleased to announce that Kyle Odom volunteers to become the
+>         documentation manager. He will from now on play an important
+>         role to
+>         boost the documentation of SPE to another level.
+>         Correspondence should
+>         be done through this mailing list.
+>
+>         TUTORIAL
+>
+>         What is now urgent is that Dimitri from serpia.com
+>         <http://serpia.com> can finish the new
+>         tuturial. I've updated him with the latest manual. Running
+>         files has
+>         drastically changed since his previous tutorial. Dimitri has
+>         asked
+>         someone to take screenshots. Jeff, maybe a student at your
+>         school can
+>         do that, or Kyle could you otherwise do it? It is important that
+>         Jonathan Ellis could have the updated manual with this. He would
+>         review SPE mid january. I guess I can send the manual a bit
+>         later...
+>
+>         WIKI
+>
+>         The documentation could be still improved a lot and has still some
+>         things not covered. Therefore Fuzzyman suggested to put a
+>         documentation todo wiki. Good idea! I've put up a first
+>         version, which
+>         can be improved and coordinated by Kyle. You can find it here:
+>         http://pythonide.stani.be/dev/wiki/FrontPage
+>
+>         TRANSLATION
+>
+>         I would like to start with the Spanish translation. I think
+>         Mario has
+>         already started with this. So Mario and Kyle now you can work
+>         together. So green light for the manual! Mario could you make a
+>         planning and update us about your progress?
+>
+>         REVIEW
+>
+>         All native english speakers are kindly asked to review the SPE
+>         manual
+>         from time to time. Thanks!
+>
+>         DONATIONWARE
+>
+>         The pdf manual of SPE is donationware. It is available for
+>         free with
+>         ads on the internet (this could be improved, but where is my
+>         time ;-)
+>         and any donor or contributor can get it. Even if one would
+>         donate 1
+>         euro, so I think it is still democratic.
+>
+>         EDUBUNTULAB
+>
+>         I'm also pleased to announce that SPE is now used as the
+>         Python IDE at
+>         the Yorktown High School in Arlington, where Jeff Elkner is
+>         responsable for CS and runs an edubuntulab. The high school
+>         could also
+>         play an important role into SPE's documentation. Jeff writes:
+>         "Documentation is something to which we can certainly
+>         contribute.  And
+>         I would be delighted to work out with you how best we can do
+>         that."
+>         For sure this could help SPE a lot, isn't it Kyle? With Jeff,
+>         I will
+>         also try to improve SPE on Ubuntu and see how SPE could fit to
+>         students.
+>
+>         OK, ACTION...
+>
+>         I am really happy with Kyle's offer. I hope that once the
+>         documentation is on rails, I can have more time for SPE.
+>
+>         The first main question is: what can we do to send Jonathan
+>         Ellis an
+>         improved documentation (screenshots, missing chapters, ...)?
+>
+>         Stani
+>
+>         --
+>         http://pythonide.stani.be
+>         http://pythonide.stani.be/screenshots
+>         http://pythonide.stani.be/manual/html/manual.html
+>         _______________________________________________
+>         Python-spe-doc mailing list
+>         Python-spe-doc at lists.berlios.de
+>         <mailto:Python-spe-doc at lists.berlios.de>
+>         http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>
+>
+>
+>
+>     -- 
+>
+>     ----
+>     "All truth passes through three stages. First, it is ridiculed.
+>     Second, it is violently opposed. Third, it is accepted as being
+>     self-evident."
+>     ~Arthur Schopenhauer
+>     ----
+>     Please visit dimitri's website: www.serpia.org <http://www.serpia.org>
+>
+>
+>
+>
+> -- 
+> ----
+> "All truth passes through three stages. First, it is ridiculed.
+> Second, it is violently opposed. Third, it is accepted as being
+> self-evident."
+> ~Arthur Schopenhauer
+> ----
+> Please visit dimitri's website: www.serpia.org <http://www.serpia.org>
+
+
+
+From hraban at fiee.net  Sun Jan 22 13:50:28 2006
+From: hraban at fiee.net (Henning Hraban Ramm)
+Date: Sun, 22 Jan 2006 13:50:28 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <43D37AD7.1010302@voidspace.org.uk>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>	 <e75321bd0601191517q5c1a107aj84f01ccb518b67bc@mail.gmail.com> <e75321bd0601211607u5966dc7dm6a6cd84f285d512c@mail.gmail.com> <43D37AD7.1010302@voidspace.org.uk>
+Message-ID: <8642955E-60DE-44AB-8C4F-6E10EEA7329E@fiee.net>
+
+Am 2006-01-22 um 13:30 schrieb Fuzzyman:
+
+>> What do you think about the size of the screenshots for example?
+>> Rescaling the images to a lower resolution results in a lesser
+>> quality. I have rescaled SPE first before taking the screenshots, but
+>> too much rescaling prior to making the screenshots made SPE look  
+>> strange.
+>>
+> They look good Dmitri. It covers features of SPE that I would like to
+> use more, so I will efinitely read these. I will try and helpful
+> comments if any spring to mind.
+>
+> My approach on screen shots is to use small ones (resized) inline with
+> the text. I then make the images links to the fullsize image.
+
+I like the actual size of the screenshots.
+Clicking on a thumbnail to see the whole picture and then back to  
+read the description is too much of a distraction.
+
+
+Greetlings from Lake Constance!
+Hraban
+---
+http://www.fiee.net
+http://www.cacert.org (I'm an assurer)
+
+
+
+
+From spe.stani.be at gmail.com  Sun Jan 22 17:18:46 2006
+From: spe.stani.be at gmail.com (SPE Stani's Python Editor)
+Date: Sun, 22 Jan 2006 17:18:46 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <8642955E-60DE-44AB-8C4F-6E10EEA7329E@fiee.net>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+	 <e75321bd0601191517q5c1a107aj84f01ccb518b67bc@mail.gmail.com>
+	 <e75321bd0601211607u5966dc7dm6a6cd84f285d512c@mail.gmail.com>
+	 <43D37AD7.1010302@voidspace.org.uk>
+	 <8642955E-60DE-44AB-8C4F-6E10EEA7329E@fiee.net>
+Message-ID: <2078a7ad0601220818k15c1eeb2u22f298fb2a56b938@mail.gmail.com>
+
+On 1/22/06, Henning Hraban Ramm <hraban at fiee.net> wrote:
+> Am 2006-01-22 um 13:30 schrieb Fuzzyman:
+>
+> >> What do you think about the size of the screenshots for example?
+> >> Rescaling the images to a lower resolution results in a lesser
+> >> quality. I have rescaled SPE first before taking the screenshots, but
+> >> too much rescaling prior to making the screenshots made SPE look
+> >> strange.
+> >>
+> > They look good Dmitri. It covers features of SPE that I would like to
+> > use more, so I will efinitely read these. I will try and helpful
+> > comments if any spring to mind.
+> >
+> > My approach on screen shots is to use small ones (resized) inline with
+> > the text. I then make the images links to the fullsize image.
+>
+> I like the actual size of the screenshots.
+> Clicking on a thumbnail to see the whole picture and then back to
+> read the description is too much of a distraction.
+I also voted before for the fullsize image. I think they immediately
+look crippled smaller. Dimitri, I would try to align the total width
+of the text with the images. It is more readable, when now I a have a
+huge resolution, the text stretches too far horizontally.
+
+Thanks for the great work!
+Stani
+
+
+From dimitri.pater at gmail.com  Sun Jan 22 20:25:11 2006
+From: dimitri.pater at gmail.com (dimitri pater)
+Date: Sun, 22 Jan 2006 20:25:11 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <2078a7ad0601220818k15c1eeb2u22f298fb2a56b938@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+	 <e75321bd0601191517q5c1a107aj84f01ccb518b67bc@mail.gmail.com>
+	 <e75321bd0601211607u5966dc7dm6a6cd84f285d512c@mail.gmail.com>
+	 <43D37AD7.1010302@voidspace.org.uk>
+	 <8642955E-60DE-44AB-8C4F-6E10EEA7329E@fiee.net>
+	 <2078a7ad0601220818k15c1eeb2u22f298fb2a56b938@mail.gmail.com>
+Message-ID: <e75321bd0601221125r54f7ca75ob1808fd44153bd45@mail.gmail.com>
+
+Hi,
+I will tweak the pages soon, but for now I will keep the images as they are
+now. I will consider Fuzzyman's idea to use small imgs inline with the text
+as a link to the big ones, but I am not sure about the usability aspect
+about this. I could try to do something like this:
+http://www.huddletogether.com/projects/lightbox/ . Which is nice, but may
+confuse users. What do you think?
+
+Greetz,
+Dimitri
+On 1/22/06, SPE Stani's Python Editor <spe.stani.be at gmail.com> wrote:
+>
+> _______________________________________________
+> http://pythonide.stani.be
+> http://pythonide.stani.be/manual/html/manual.html
+> http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> On 1/22/06, Henning Hraban Ramm <hraban at fiee.net> wrote:
+> > Am 2006-01-22 um 13:30 schrieb Fuzzyman:
+> >
+> > >> What do you think about the size of the screenshots for example?
+> > >> Rescaling the images to a lower resolution results in a lesser
+> > >> quality. I have rescaled SPE first before taking the screenshots, but
+> > >> too much rescaling prior to making the screenshots made SPE look
+> > >> strange.
+> > >>
+> > > They look good Dmitri. It covers features of SPE that I would like to
+> > > use more, so I will efinitely read these. I will try and helpful
+> > > comments if any spring to mind.
+> > >
+> > > My approach on screen shots is to use small ones (resized) inline with
+> > > the text. I then make the images links to the fullsize image.
+> >
+> > I like the actual size of the screenshots.
+> > Clicking on a thumbnail to see the whole picture and then back to
+> > read the description is too much of a distraction.
+> I also voted before for the fullsize image. I think they immediately
+> look crippled smaller. Dimitri, I would try to align the total width
+> of the text with the images. It is more readable, when now I a have a
+> huge resolution, the text stretches too far horizontally.
+>
+> Thanks for the great work!
+> Stani
+> _______________________________________________
+> Python-spe-doc mailing list
+> Python-spe-doc at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/python-spe-doc
+>
+
+
+
+--
+----
+"All truth passes through three stages. First, it is ridiculed. Second, it
+is violently opposed. Third, it is accepted as being self-evident."
+~Arthur Schopenhauer
+----
+Please visit dimitri's website: www.serpia.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060122/0dff7f16/attachment.html>
+
+From spe.stani.be at gmail.com  Mon Jan 23 01:49:27 2006
+From: spe.stani.be at gmail.com (SPE Stani's Python Editor)
+Date: Mon, 23 Jan 2006 01:49:27 +0100
+Subject: [spe-doc] new openoffice manual ready
+Message-ID: <2078a7ad0601221649u5c10c12eue6fcdafd5df01c19@mail.gmail.com>
+
+If someone likes to have it, just drop me a mail...
+
+Stani
+
+--
+http://pythonide.stani.be
+http://pythonide.stani.be/screenshots
+http://pythonide.stani.be/manual/html/manual.html
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060123/586d55f4/attachment.html>
+
+From dimitri.pater at gmail.com  Mon Jan 23 07:48:25 2006
+From: dimitri.pater at gmail.com (dimitri pater)
+Date: Mon, 23 Jan 2006 07:48:25 +0100
+Subject: [spe-doc] new openoffice manual ready
+In-Reply-To: <2078a7ad0601221649u5c10c12eue6fcdafd5df01c19@mail.gmail.com>
+References: <2078a7ad0601221649u5c10c12eue6fcdafd5df01c19@mail.gmail.com>
+Message-ID: <e75321bd0601222248x6719dd51l31406faa339d6105@mail.gmail.com>
+
+I would like to have one!
+Thanx for the work,
+Dimitri
+
+On 1/23/06, SPE Stani's Python Editor <spe.stani.be at gmail.com> wrote:
+>
+> If someone likes to have it, just drop me a mail...
+>
+> Stani
+>
+> --
+> http://pythonide.stani.be
+> http://pythonide.stani.be/screenshots
+> http://pythonide.stani.be/manual/html/manual.html
+
+
+
+
+--
+----
+"All truth passes through three stages. First, it is ridiculed. Second, it
+is violently opposed. Third, it is accepted as being self-evident."
+~Arthur Schopenhauer
+----
+Please visit dimitri's website: www.serpia.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060123/5a6b694f/attachment.html>
+
+From dimitri.pater at gmail.com  Mon Jan 23 22:13:47 2006
+From: dimitri.pater at gmail.com (dimitri pater)
+Date: Mon, 23 Jan 2006 22:13:47 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <e75321bd0601221125r54f7ca75ob1808fd44153bd45@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+	 <e75321bd0601191517q5c1a107aj84f01ccb518b67bc@mail.gmail.com>
+	 <e75321bd0601211607u5966dc7dm6a6cd84f285d512c@mail.gmail.com>
+	 <43D37AD7.1010302@voidspace.org.uk>
+	 <8642955E-60DE-44AB-8C4F-6E10EEA7329E@fiee.net>
+	 <2078a7ad0601220818k15c1eeb2u22f298fb2a56b938@mail.gmail.com>
+	 <e75321bd0601221125r54f7ca75ob1808fd44153bd45@mail.gmail.com>
+Message-ID: <e75321bd0601231313u5799c926v55b058552e0c370@mail.gmail.com>
+
+I did the javascript lightbox thing on the www.serpia.org/spe page
+Looks nice doesn't it, do you think it is usable? I only tested it in FF and
+Safari.
+thanks,
+Dimitri
+
+On 1/22/06, dimitri pater <dimitri.pater at gmail.com> wrote:
+>
+> Hi,
+> I will tweak the pages soon, but for now I will keep the images as they
+> are now. I will consider Fuzzyman's idea to use small imgs inline with the
+> text as a link to the big ones, but I am not sure about the usability aspect
+> about this. I could try to do something like this:
+> http://www.huddletogether.com/projects/lightbox/ . Which is nice, but may
+> confuse users. What do you think?
+>
+> Greetz,
+> Dimitri
+> On 1/22/06, SPE Stani's Python Editor <spe.stani.be at gmail.com> wrote:
+> >
+> > _______________________________________________
+> > http://pythonide.stani.be
+> > http://pythonide.stani.be/manual/html/manual.html
+> > http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> > On 1/22/06, Henning Hraban Ramm < hraban at fiee.net> wrote:
+> > > Am 2006-01-22 um 13:30 schrieb Fuzzyman:
+> > >
+> > > >> What do you think about the size of the screenshots for example?
+> > > >> Rescaling the images to a lower resolution results in a lesser
+> > > >> quality. I have rescaled SPE first before taking the screenshots,
+> > but
+> > > >> too much rescaling prior to making the screenshots made SPE look
+> > > >> strange.
+> > > >>
+> > > > They look good Dmitri. It covers features of SPE that I would like
+> > to
+> > > > use more, so I will efinitely read these. I will try and helpful
+> > > > comments if any spring to mind.
+> > > >
+> > > > My approach on screen shots is to use small ones (resized) inline
+> > with
+> > > > the text. I then make the images links to the fullsize image.
+> > >
+> > > I like the actual size of the screenshots.
+> > > Clicking on a thumbnail to see the whole picture and then back to
+> > > read the description is too much of a distraction.
+> > I also voted before for the fullsize image. I think they immediately
+> > look crippled smaller. Dimitri, I would try to align the total width
+> > of the text with the images. It is more readable, when now I a have a
+> > huge resolution, the text stretches too far horizontally.
+> >
+> > Thanks for the great work!
+> > Stani
+> > _______________________________________________
+> > Python-spe-doc mailing list
+> > Python-spe-doc at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/python-spe-doc
+> >
+>
+>
+>
+> --
+> ----
+> "All truth passes through three stages. First, it is ridiculed. Second, it
+> is violently opposed. Third, it is accepted as being self-evident."
+> ~Arthur Schopenhauer
+> ----
+> Please visit dimitri's website: www.serpia.org
+>
+
+
+
+--
+----
+"All truth passes through three stages. First, it is ridiculed. Second, it
+is violently opposed. Third, it is accepted as being self-evident."
+~Arthur Schopenhauer
+----
+Please visit dimitri's website: www.serpia.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060123/15c17345/attachment.html>
+
+From spe.stani.be at gmail.com  Tue Jan 24 00:40:19 2006
+From: spe.stani.be at gmail.com (SPE Stani's Python Editor)
+Date: Tue, 24 Jan 2006 00:40:19 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <e75321bd0601231313u5799c926v55b058552e0c370@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+	 <e75321bd0601191517q5c1a107aj84f01ccb518b67bc@mail.gmail.com>
+	 <e75321bd0601211607u5966dc7dm6a6cd84f285d512c@mail.gmail.com>
+	 <43D37AD7.1010302@voidspace.org.uk>
+	 <8642955E-60DE-44AB-8C4F-6E10EEA7329E@fiee.net>
+	 <2078a7ad0601220818k15c1eeb2u22f298fb2a56b938@mail.gmail.com>
+	 <e75321bd0601221125r54f7ca75ob1808fd44153bd45@mail.gmail.com>
+	 <e75321bd0601231313u5799c926v55b058552e0c370@mail.gmail.com>
+Message-ID: <2078a7ad0601231540n1f150543x6dff20b1b72a5e0d@mail.gmail.com>
+
+Hi Dimitri,
+I can't see a lightbox effect, both on Ubuntu or Windows XP. Are you sure
+you uploaded it? Now it just shows a bigger image.
+Stani
+
+On 1/23/06, dimitri pater <dimitri.pater at gmail.com> wrote:
+>
+> I did the javascript lightbox thing on the www.serpia.org/spe page
+> Looks nice doesn't it, do you think it is usable? I only tested it in FF
+> and Safari.
+> thanks,
+> Dimitri
+>
+> On 1/22/06, dimitri pater <dimitri.pater at gmail.com> wrote:
+> >
+> > Hi,
+> > I will tweak the pages soon, but for now I will keep the images as they
+> > are now. I will consider Fuzzyman's idea to use small imgs inline with the
+> > text as a link to the big ones, but I am not sure about the usability aspect
+> > about this. I could try to do something like this:
+> > http://www.huddletogether.com/projects/lightbox/ . Which is nice, but
+> > may confuse users. What do you think?
+> >
+> > Greetz,
+> > Dimitri
+> > On 1/22/06, SPE Stani's Python Editor <spe.stani.be at gmail.com> wrote:
+> > >
+> > > _______________________________________________
+> > > http://pythonide.stani.be
+> > > http://pythonide.stani.be/manual/html/manual.html
+> > > http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> > > On 1/22/06, Henning Hraban Ramm < hraban at fiee.net> wrote:
+> > > > Am 2006-01-22 um 13:30 schrieb Fuzzyman:
+> > > >
+> > > > >> What do you think about the size of the screenshots for example?
+> > > > >> Rescaling the images to a lower resolution results in a lesser
+> > > > >> quality. I have rescaled SPE first before taking the screenshots,
+> > > but
+> > > > >> too much rescaling prior to making the screenshots made SPE look
+> > > > >> strange.
+> > > > >>
+> > > > > They look good Dmitri. It covers features of SPE that I would like
+> > > to
+> > > > > use more, so I will efinitely read these. I will try and helpful
+> > > > > comments if any spring to mind.
+> > > > >
+> > > > > My approach on screen shots is to use small ones (resized) inline
+> > > with
+> > > > > the text. I then make the images links to the fullsize image.
+> > > >
+> > > > I like the actual size of the screenshots.
+> > > > Clicking on a thumbnail to see the whole picture and then back to
+> > > > read the description is too much of a distraction.
+> > > I also voted before for the fullsize image. I think they immediately
+> > > look crippled smaller. Dimitri, I would try to align the total width
+> > > of the text with the images. It is more readable, when now I a have a
+> > > huge resolution, the text stretches too far horizontally.
+> > >
+> > > Thanks for the great work!
+> > > Stani
+> > > _______________________________________________
+> > > Python-spe-doc mailing list
+> > > Python-spe-doc at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/python-spe-doc
+> > >
+> >
+> >
+> >
+> > --
+> > ----
+> > "All truth passes through three stages. First, it is ridiculed. Second,
+> > it is violently opposed. Third, it is accepted as being self-evident."
+> > ~Arthur Schopenhauer
+> > ----
+> > Please visit dimitri's website: www.serpia.org
+> >
+>
+>
+>
+> --
+> ----
+> "All truth passes through three stages. First, it is ridiculed. Second, it
+> is violently opposed. Third, it is accepted as being self-evident."
+> ~Arthur Schopenhauer
+> ----
+> Please visit dimitri's website: www.serpia.org
+>
+
+
+
+--
+http://pythonide.stani.be
+http://pythonide.stani.be/screenshots
+http://pythonide.stani.be/manual/html/manual.html
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060124/723325bc/attachment.html>
+
+From dimitri.pater at gmail.com  Tue Jan 24 06:26:14 2006
+From: dimitri.pater at gmail.com (dimitri pater)
+Date: Tue, 24 Jan 2006 06:26:14 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <2078a7ad0601231540n1f150543x6dff20b1b72a5e0d@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+	 <e75321bd0601191517q5c1a107aj84f01ccb518b67bc@mail.gmail.com>
+	 <e75321bd0601211607u5966dc7dm6a6cd84f285d512c@mail.gmail.com>
+	 <43D37AD7.1010302@voidspace.org.uk>
+	 <8642955E-60DE-44AB-8C4F-6E10EEA7329E@fiee.net>
+	 <2078a7ad0601220818k15c1eeb2u22f298fb2a56b938@mail.gmail.com>
+	 <e75321bd0601221125r54f7ca75ob1808fd44153bd45@mail.gmail.com>
+	 <e75321bd0601231313u5799c926v55b058552e0c370@mail.gmail.com>
+	 <2078a7ad0601231540n1f150543x6dff20b1b72a5e0d@mail.gmail.com>
+Message-ID: <e75321bd0601232126s3562f6b5m6956ec2942ffaf0a@mail.gmail.com>
+
+have you enabled javascript in your browser?
+thanks,
+Dimitri
+
+On 1/24/06, SPE Stani's Python Editor <spe.stani.be at gmail.com> wrote:
+>
+> Hi Dimitri,
+> I can't see a lightbox effect, both on Ubuntu or Windows XP. Are you sure
+> you uploaded it? Now it just shows a bigger image.
+> Stani
+>
+> On 1/23/06, dimitri pater <dimitri.pater at gmail.com> wrote:
+> >
+> > I did the javascript lightbox thing on the www.serpia.org/spe page
+> > Looks nice doesn't it, do you think it is usable? I only tested it in FF
+> > and Safari.
+> > thanks,
+> > Dimitri
+> >
+> > On 1/22/06, dimitri pater <dimitri.pater at gmail.com > wrote:
+> > >
+> > > Hi,
+> > > I will tweak the pages soon, but for now I will keep the images as
+> > > they are now. I will consider Fuzzyman's idea to use small imgs inline with
+> > > the text as a link to the big ones, but I am not sure about the usability
+> > > aspect about this. I could try to do something like this:
+> > > http://www.huddletogether.com/projects/lightbox/ . Which is nice, but
+> > > may confuse users. What do you think?
+> > >
+> > > Greetz,
+> > > Dimitri
+> > > On 1/22/06, SPE Stani's Python Editor <spe.stani.be at gmail.com> wrote:
+> > > >
+> > > > _______________________________________________
+> > > > http://pythonide.stani.be
+> > > > http://pythonide.stani.be/manual/html/manual.html
+> > > > http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> > > > On 1/22/06, Henning Hraban Ramm < hraban at fiee.net> wrote:
+> > > > > Am 2006-01-22 um 13:30 schrieb Fuzzyman:
+> > > > >
+> > > > > >> What do you think about the size of the screenshots for
+> > > > example?
+> > > > > >> Rescaling the images to a lower resolution results in a lesser
+> > > > > >> quality. I have rescaled SPE first before taking the
+> > > > screenshots, but
+> > > > > >> too much rescaling prior to making the screenshots made SPE
+> > > > look
+> > > > > >> strange.
+> > > > > >>
+> > > > > > They look good Dmitri. It covers features of SPE that I would
+> > > > like to
+> > > > > > use more, so I will efinitely read these. I will try and helpful
+> > > > > > comments if any spring to mind.
+> > > > > >
+> > > > > > My approach on screen shots is to use small ones (resized)
+> > > > inline with
+> > > > > > the text. I then make the images links to the fullsize image.
+> > > > >
+> > > > > I like the actual size of the screenshots.
+> > > > > Clicking on a thumbnail to see the whole picture and then back to
+> > > > > read the description is too much of a distraction.
+> > > > I also voted before for the fullsize image. I think they immediately
+> > > > look crippled smaller. Dimitri, I would try to align the total width
+> > > > of the text with the images. It is more readable, when now I a have
+> > > > a
+> > > > huge resolution, the text stretches too far horizontally.
+> > > >
+> > > > Thanks for the great work!
+> > > > Stani
+> > > > _______________________________________________
+> > > > Python-spe-doc mailing list
+> > > > Python-spe-doc at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/python-spe-doc
+> > > >
+> > >
+> > >
+> > >
+> > > --
+> > > ----
+> > > "All truth passes through three stages. First, it is ridiculed.
+> > > Second, it is violently opposed. Third, it is accepted as being
+> > > self-evident."
+> > > ~Arthur Schopenhauer
+> > > ----
+> > > Please visit dimitri's website: www.serpia.org
+> > >
+> >
+> >
+> >
+> > --
+> > ----
+> > "All truth passes through three stages. First, it is ridiculed. Second,
+> > it is violently opposed. Third, it is accepted as being self-evident."
+> > ~Arthur Schopenhauer
+> > ----
+> > Please visit dimitri's website: www.serpia.org
+> >
+>
+>
+>
+> --
+> http://pythonide.stani.be
+> http://pythonide.stani.be/screenshots
+> http://pythonide.stani.be/manual/html/manual.html
+>
+
+
+
+--
+----
+"All truth passes through three stages. First, it is ridiculed. Second, it
+is violently opposed. Third, it is accepted as being self-evident."
+~Arthur Schopenhauer
+----
+Please visit dimitri's website: www.serpia.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060124/1b59783b/attachment.html>
+
+From spe.stani.be at gmail.com  Tue Jan 24 08:43:28 2006
+From: spe.stani.be at gmail.com (SPE Stani's Python Editor)
+Date: Tue, 24 Jan 2006 08:43:28 +0100
+Subject: [spe-doc] documentation wake up call
+In-Reply-To: <e75321bd0601232126s3562f6b5m6956ec2942ffaf0a@mail.gmail.com>
+References: <2078a7ad0601151410k60ff93a9p1fdef012ba259d0f@mail.gmail.com>
+	 <e75321bd0601191517q5c1a107aj84f01ccb518b67bc@mail.gmail.com>
+	 <e75321bd0601211607u5966dc7dm6a6cd84f285d512c@mail.gmail.com>
+	 <43D37AD7.1010302@voidspace.org.uk>
+	 <8642955E-60DE-44AB-8C4F-6E10EEA7329E@fiee.net>
+	 <2078a7ad0601220818k15c1eeb2u22f298fb2a56b938@mail.gmail.com>
+	 <e75321bd0601221125r54f7ca75ob1808fd44153bd45@mail.gmail.com>
+	 <e75321bd0601231313u5799c926v55b058552e0c370@mail.gmail.com>
+	 <2078a7ad0601231540n1f150543x6dff20b1b72a5e0d@mail.gmail.com>
+	 <e75321bd0601232126s3562f6b5m6956ec2942ffaf0a@mail.gmail.com>
+Message-ID: <2078a7ad0601232343q69a32b9dn405671b3b7e0d29c@mail.gmail.com>
+
+Hi Dimitri,
+Now it works ;-) I guess I was too quick. Of course it looks cool! I guess
+you will probably get feedback if visitors like it. Feel free to do a
+posting on spe-users.
+Many thanks,
+Stani
+
+On 1/24/06, dimitri pater <dimitri.pater at gmail.com> wrote:
+>
+> have you enabled javascript in your browser?
+> thanks,
+> Dimitri
+>
+> On 1/24/06, SPE Stani's Python Editor <spe.stani.be at gmail.com > wrote:
+> >
+> > Hi Dimitri,
+> > I can't see a lightbox effect, both on Ubuntu or Windows XP. Are you
+> > sure you uploaded it? Now it just shows a bigger image.
+> > Stani
+> >
+> > On 1/23/06, dimitri pater < dimitri.pater at gmail.com> wrote:
+> > >
+> > > I did the javascript lightbox thing on the www.serpia.org/spe page
+> > > Looks nice doesn't it, do you think it is usable? I only tested it in
+> > > FF and Safari.
+> > > thanks,
+> > > Dimitri
+> > >
+> > > On 1/22/06, dimitri pater <dimitri.pater at gmail.com > wrote:
+> > > >
+> > > > Hi,
+> > > > I will tweak the pages soon, but for now I will keep the images as
+> > > > they are now. I will consider Fuzzyman's idea to use small imgs inline with
+> > > > the text as a link to the big ones, but I am not sure about the usability
+> > > > aspect about this. I could try to do something like this:
+> > > > http://www.huddletogether.com/projects/lightbox/ . Which is nice,
+> > > > but may confuse users. What do you think?
+> > > >
+> > > > Greetz,
+> > > > Dimitri
+> > > > On 1/22/06, SPE Stani's Python Editor <spe.stani.be at gmail.com>
+> > > > wrote:
+> > > > >
+> > > > > _______________________________________________
+> > > > > http://pythonide.stani.be
+> > > > > http://pythonide.stani.be/manual/html/manual.html
+> > > > > http://pythonide.stani.be/blog/sm_donate_______________________________________________
+> > > > > On 1/22/06, Henning Hraban Ramm < hraban at fiee.net> wrote:
+> > > > > > Am 2006-01-22 um 13:30 schrieb Fuzzyman:
+> > > > > >
+> > > > > > >> What do you think about the size of the screenshots for
+> > > > > example?
+> > > > > > >> Rescaling the images to a lower resolution results in a
+> > > > > lesser
+> > > > > > >> quality. I have rescaled SPE first before taking the
+> > > > > screenshots, but
+> > > > > > >> too much rescaling prior to making the screenshots made SPE
+> > > > > look
+> > > > > > >> strange.
+> > > > > > >>
+> > > > > > > They look good Dmitri. It covers features of SPE that I would
+> > > > > like to
+> > > > > > > use more, so I will efinitely read these. I will try and
+> > > > > helpful
+> > > > > > > comments if any spring to mind.
+> > > > > > >
+> > > > > > > My approach on screen shots is to use small ones (resized)
+> > > > > inline with
+> > > > > > > the text. I then make the images links to the fullsize image.
+> > > > > >
+> > > > > > I like the actual size of the screenshots.
+> > > > > > Clicking on a thumbnail to see the whole picture and then back
+> > > > > to
+> > > > > > read the description is too much of a distraction.
+> > > > > I also voted before for the fullsize image. I think they
+> > > > > immediately
+> > > > > look crippled smaller. Dimitri, I would try to align the total
+> > > > > width
+> > > > > of the text with the images. It is more readable, when now I a
+> > > > > have a
+> > > > > huge resolution, the text stretches too far horizontally.
+> > > > >
+> > > > > Thanks for the great work!
+> > > > > Stani
+> > > > > _______________________________________________
+> > > > > Python-spe-doc mailing list
+> > > > > Python-spe-doc at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/python-spe-doc
+> > > > >
+> > > >
+> > > >
+> > > >
+> > > > --
+> > > > ----
+> > > > "All truth passes through three stages. First, it is ridiculed.
+> > > > Second, it is violently opposed. Third, it is accepted as being
+> > > > self-evident."
+> > > > ~Arthur Schopenhauer
+> > > > ----
+> > > > Please visit dimitri's website: www.serpia.org
+> > > >
+> > >
+> > >
+> > >
+> > > --
+> > > ----
+> > > "All truth passes through three stages. First, it is ridiculed.
+> > > Second, it is violently opposed. Third, it is accepted as being
+> > > self-evident."
+> > > ~Arthur Schopenhauer
+> > > ----
+> > > Please visit dimitri's website: www.serpia.org
+> > >
+> >
+> >
+> >
+> > --
+> > http://pythonide.stani.be
+> > http://pythonide.stani.be/screenshots
+> > http://pythonide.stani.be/manual/html/manual.html
+> >
+>
+>
+>
+> --
+> ----
+> "All truth passes through three stages. First, it is ridiculed. Second, it
+> is violently opposed. Third, it is accepted as being self-evident."
+> ~Arthur Schopenhauer
+> ----
+> Please visit dimitri's website: www.serpia.org
+>
+
+
+
+--
+http://pythonide.stani.be
+http://pythonide.stani.be/screenshots
+http://pythonide.stani.be/manual/html/manual.html
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-spe-doc/attachments/20060124/8256e541/attachment.html>
+
